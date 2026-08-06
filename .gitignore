@@ -1,0 +1,43 @@
+# Private local planning context
+/atlasgate_project_master_plan.md
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Java build output
+.gradle/
+build/
+target/
+out/
+*.class
+
+# Node dependencies and package-manager caches
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/cache/
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor-local temporary files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
