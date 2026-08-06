@@ -36,4 +36,3 @@ This ledger is the chronological, factual record of AtlasGate delivery. Every it
 - **Known limitations:** The literal npm check was blocked by the local PowerShell execution policy. No application, build, container, CI, or architecture implementation exists. There is no commit or pull request.
 - **Commit / pull request:** Not created.
 - **Next expected prompt:** `I00-P02`, limited to discovery records and architecture decision framing without application implementation.
-

@@ -10,4 +10,3 @@ This directory is the entry point for repository documentation.
 - Security and governance: planned.
 - Operations and reliability: planned.
 - Testing strategy: planned.
-

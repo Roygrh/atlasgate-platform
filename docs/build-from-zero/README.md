@@ -17,4 +17,3 @@ Every iteration must update the relevant reconstruction chapter and the iteratio
 - [00 - Prerequisites](00-prerequisites.md): complete for the governance bootstrap environment snapshot.
 - Repository governance and documentation entry points: complete for `I00-P01`.
 - Application, build, runtime, and deployment reconstruction: deferred; none has been implemented.
-
