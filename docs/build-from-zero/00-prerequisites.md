@@ -30,4 +30,3 @@ Verified on 2026-08-05 in the local Windows/PowerShell environment. This page re
 | Kubernetes, Helm, and infrastructure components | No versions or tooling selected | Deferred until deployment requirements exist |
 
 No installation is required for the governance bootstrap.
-

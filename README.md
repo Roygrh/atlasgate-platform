@@ -7,4 +7,3 @@ The planned direction separates a control plane from a data plane. The control p
 Key engineering principles are security by default, explicit module boundaries, incremental delivery, evidence-based abstractions, portable operation, observable behavior, and validation proportional to risk.
 
 Start with the [documentation index](docs/README.md). Capabilities will be added incrementally and validated before they are described as implemented.
-

@@ -20,4 +20,3 @@ indent_size = 2
 
 [*.{bat,cmd}]
 end_of_line = crlf
-

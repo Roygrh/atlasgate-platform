@@ -14,4 +14,3 @@ This reusable map connects competencies expected of an enterprise Java API platf
 | Testing strategy | Risk-based test pyramid, contract and integration coverage, security checks, and failure-path validation | Not implemented yet |
 | Deployment portability | Reproducible packaging, environment-neutral configuration, local validation, and deployment options based on requirements | Not implemented yet |
 | Technical leadership | Iteration records, reviewable decisions, engineering standards, mentoring guidance, and evidence of managed trade-offs | Not implemented yet |
-
