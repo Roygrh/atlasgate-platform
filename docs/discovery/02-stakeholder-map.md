@@ -17,3 +17,18 @@ Northstar Digital Group and every person or group below are fictional. Names mak
 | Polaris Partner Developers | External API consumer group | Integrate with stable, understandable APIs and receive timely support | Breaking changes, difficult onboarding, ambiguous errors, and opaque status | No internal authority; adoption and feedback strongly affect outcomes | Consumer journey, documentation needs, integration constraints, and support expectations | Consumer simplicity versus provider governance and security controls |
 
 Decision influence is provisional. The executive kickoff and subsequent workshops must clarify actual decision rights, veto conditions, and conflict-resolution paths.
+
+## SES-001 observed simulated evidence
+
+This section records observations from the fictional [SES-001 executive kickoff](sessions/SES-001-executive-kickoff/02-session-record.md), separately from the planned expectations above.
+
+| Participant | Participation and observed priorities | Observed influence | Unresolved authority |
+| --- | --- | --- | --- |
+| Maya Chen | Pressed for bounded outcomes, proportionate cost, and an evidence checkpoint | Confirmed discovery sponsorship and funding-priority influence | Domain adoption, business-risk exceptions, and operational-risk acceptance |
+| Daniel Okafor | Facilitated distinctions among claims, value, adoption, and measures; assigned follow-ups | Coordinates discovery synthesis and product framing | Approval of baselines and later proposed scope |
+| Priya Raman | Resisted premature solution selection; requested inventory, dependency, and total-cost evidence | Advisory architecture influence | No business-scope authority; architecture approval path remains unknown |
+| Elena García | Prioritized demonstrable, flow-appropriate security and challenged attribution of delay | Strong security-advisory influence | Business exceptions when risk conflicts with urgency |
+| Marcus Reed | Prioritized critical journeys, ownership boundaries, telemetry, and evidence-based targets | Defines reliability evidence expectations | Cross-domain operational-risk acceptance |
+| Aisha Bello | Prioritized delivery speed, domain autonomy, workable guardrails, and transition cost | Can influence commerce adoption and roadmap | Whether another body can mandate adoption |
+
+All observations come from one simulation and do not establish enterprise-wide influence or formal authority.

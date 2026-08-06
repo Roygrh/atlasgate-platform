@@ -51,3 +51,13 @@ The relative priority and success measures for these drivers remain open.
 ## Intentionally unknown
 
 Discovery has not established user volumes, API inventory, traffic patterns, critical journeys, team counts, regulatory scope, tenant model, service levels, budget, migration constraints, identity providers, existing vendors, deployment environments, data classifications, or approved success metrics. No proposed platform capability should be treated as a requirement until evidence and approval are recorded.
+
+## Kickoff evidence
+
+The fictional [SES-001 executive kickoff](sessions/SES-001-executive-kickoff/02-session-record.md) supports only preliminary context:
+
+- **Supported simulated evidence:** Participants perceive delivery coordination, adoption, security-review timing, cross-team ownership, cost, and decision rights as investigation areas. Executive sponsorship covers discovery and funding priority. Technology selection, architecture approval, migration commitment, and numeric targets were excluded from the session.
+- **Challenged statements:** Commerce challenged the breadth and attribution of delivery-delay claims; Security challenged attribution of delay to security; Commerce challenged broad operational-ownership claims.
+- **Still unknown:** Enterprise prevalence and root causes, consumer and journey priority, inventory completeness, obligations, criticality, telemetry, total cost, capacity, formal decision rights, and any approved outcome or target.
+
+This evidence does not validate the initial business-driver list or any architecture direction.

@@ -24,10 +24,14 @@ Future simulated sessions will start from the [engagement plan](03-discovery-pla
 - [Discovery plan](03-discovery-plan.md): sequence, preparation, questions, outputs, and exit criteria.
 - [Assumptions and open questions](04-assumptions-and-open-questions.md): unresolved propositions and evidence needs.
 - [Glossary](05-glossary.md): shared, implementation-neutral terminology.
-- Future session records, findings, hypotheses, and proposed requirements will be added only when the relevant simulated activity occurs.
+- [Session index](sessions/README.md): lifecycle and artifacts for fictional simulated activities.
+- [Stakeholder evidence](evidence/README.md): attributed simulated statements with source anchors.
+- [Preliminary findings](findings/README.md): synthesis with conflicts, limitations, and validation needs.
+- [Business context and outcome candidates](06-business-context-and-outcomes.md): current framing and unapproved outcome candidates.
+- Hypotheses and proposed requirements will be added only when relevant evidence exists; none exists now.
 
 Future evidence must use stable identifiers and link from its source session to derived findings, assumptions, open questions, proposed requirements, risks, and decisions. Links must preserve direction: a decision may cite a requirement, but it must not retroactively make that requirement approved. Conflicts and unresolved evidence remain visible.
 
 ## Current state
 
-The discovery structure, fictional scenario, stakeholder model, engagement plan, initial assumptions, open questions, and terminology are established. No interview or workshop has occurred, no finding has been synthesized, no requirement has been approved or baselined, and no architecture decision has been made.
+SES-001 has been simulated and recorded for portfolio purposes. Its statements, preliminary findings, outcome candidates, constraints, disagreements, and follow-ups are traceable. No later activity has been completed; no finding is validated; no requirement has been proposed, approved, or baselined; and no architecture decision has been made.

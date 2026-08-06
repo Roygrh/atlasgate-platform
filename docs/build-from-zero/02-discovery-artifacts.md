@@ -18,17 +18,17 @@ The company profile bounds the fictional scenario, the stakeholder map defines p
 
 ## Identifier conventions
 
-Use `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, and `ADR-NNNN` for architecture decisions. Future evidence types must define their own stable convention before first use. Identifiers are never renumbered or reused; closed and superseded records remain traceable.
+Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for findings, `OUT-NNN` for outcome candidates, `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, and `ADR-NNNN` for architecture decisions. Identifiers are never renumbered or reused; closed and superseded records remain traceable. See [03 - Executive Kickoff](03-executive-kickoff.md) for the first statement-to-analysis workflow.
 
 ## Validation
 
 - Confirm every Markdown link resolves to an existing repository file.
 - Confirm statements, findings, assumptions, hypotheses, requirements, and decisions remain distinguishable.
-- Confirm no planned interview is described as completed and no proposal is described as approved.
+- Confirm only sessions actually simulated for the portfolio are described as completed and no proposal is described as approved.
 - Confirm fictional labels appear in the company profile, stakeholder model, and activity records.
 - Run `git diff --check`, inspect `git diff --name-only`, and verify no executable or infrastructure artifact entered scope.
 - Verify the private plan is still ignored and untracked and that nothing is staged.
 
 ## Current limitation
 
-This chapter reconstructs the discovery foundation only. There are no simulated session records, synthesized findings, approved requirements, final architecture baseline, or implemented capabilities.
+This chapter reconstructs the discovery foundation. SES-001 now provides a fictional simulated session and preliminary synthesis, as reconstructed in the next chapter. There are no validated findings, approved requirements, final architecture baseline, or implemented capabilities.
