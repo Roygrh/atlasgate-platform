@@ -15,5 +15,8 @@ Every iteration must update the relevant reconstruction chapter and the iteratio
 ## Current state
 
 - [00 - Prerequisites](00-prerequisites.md): complete for the governance bootstrap environment snapshot.
+- [01 - Repository Bootstrap](01-repository-bootstrap.md): reconstruction of the committed governance baseline.
+- [02 - Discovery Artifacts](02-discovery-artifacts.md): reconstruction and extension rules for the discovery and decision-governance foundation.
 - Repository governance and documentation entry points: complete for `I00-P01`.
+- Discovery planning, stakeholder modeling, risk governance, and architecture decision governance: complete for `I00-P02`; no discovery session has occurred.
 - Application, build, runtime, and deployment reconstruction: deferred; none has been implemented.

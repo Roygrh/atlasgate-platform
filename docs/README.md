@@ -3,9 +3,12 @@
 This directory is the entry point for repository documentation.
 
 - [Build from Zero](build-from-zero/README.md): verified reconstruction steps and current progress.
+- [Discovery](discovery/README.md): fictional business context, stakeholder model, engagement plan, uncertainty registers, and terminology.
+- [Architecture](architecture/README.md): evidence-based architecture documentation scope and current state.
+- [Architecture decision governance](architecture/decisions/README.md): decision-record thresholds, lifecycle, review, and traceability.
+- [Risk register](project-management/risk-register.md): project risks, ownership, triggers, and mitigation.
 - [Iteration ledger](project-history/iteration-ledger.md): objectives, changes, commands, validation, and limitations for each prompt.
 - [Target-role evidence map](portfolio/target-role-evidence-map.md): planned and implemented portfolio evidence.
-- Architecture decisions: planned; no decision records exist yet.
 - Architecture views and diagrams: planned; no diagrams exist yet.
 - Security and governance: planned.
 - Operations and reliability: planned.
