@@ -14,6 +14,7 @@ Northstar Digital Group and every person or group below are fictional. Names mak
 | Sofia Novak | External partner integration lead | Make partner onboarding predictable and supportable | Bespoke integrations, unclear contracts, and slow issue resolution | Influences partner process and prioritization | Onboarding workflow, partner segmentation, support model, and failure examples | Partner customization versus scalable operations |
 | Henry Walsh | Compliance and audit representative | Obtain reliable, reviewable evidence of controls and accountability | Missing records, unverifiable controls, and retention gaps | Can require evidence or remediation within applicable scope | Regulatory questions, evidence standards, review cadence, and retention needs | Evidence depth versus operational overhead |
 | Atlas Platform Engineering | Platform engineering team | Deliver and operate maintainable shared capabilities | Unbounded scope, tool sprawl, support load, and unclear product ownership | Advises feasibility and owns future implementation within approved scope | Current skills, constraints, delivery practices, and operational capacity | Platform sustainability versus stakeholder demand |
+| Jordan Lee | Platform Engineering Representative within the existing Atlas Platform Engineering group | Represent sustainable operation and support of shared foundations | Incomplete requests, hidden ownership, copied configuration, and unbounded support | Represents engineering evidence and advises feasibility; creates no new authority layer | Current queues, support paths, workarounds, ownership gaps, and evidence availability | Local speed versus supportability and shared visibility |
 | Polaris Partner Developers | External API consumer group | Integrate with stable, understandable APIs and receive timely support | Breaking changes, difficult onboarding, ambiguous errors, and opaque status | No internal authority; adoption and feedback strongly affect outcomes | Consumer journey, documentation needs, integration constraints, and support expectations | Consumer simplicity versus provider governance and security controls |
 
 Decision influence is provisional. The executive kickoff and subsequent workshops must clarify actual decision rights, veto conditions, and conflict-resolution paths.
@@ -32,3 +33,18 @@ This section records observations from the fictional [SES-001 executive kickoff]
 | Aisha Bello | Prioritized delivery speed, domain autonomy, workable guardrails, and transition cost | Can influence commerce adoption and roadmap | Whether another body can mandate adoption |
 
 All observations come from one simulation and do not establish enterprise-wide influence or formal authority.
+
+## SES-002 observed simulated evidence
+
+This section records observations from the fictional [SES-002 platform product discovery](sessions/SES-002-platform-product-discovery/02-session-record.md), separately from planned expectations and SES-001.
+
+| Participant | Participation and observed priorities | Limitation |
+| --- | --- | --- |
+| Daniel Okafor | Facilitated role, journey, adoption, and measure distinctions; retained open evidence requests | Product propositions remain untested |
+| Aisha Bello | Traced partner-launch handoffs, challenged universal release flow and API counts, disclosed a risky workaround | One domain and recalled examples |
+| Lucas Pereira | Traced internal-consumer change coordination and challenged portal-login measures | Consumer teams did not participate |
+| Sofia Novak | Distinguished eligibility, external dependencies, partner variation, and support needs | No external developer participated |
+| Priya Raman | Challenged one workflow and separated common governance concerns from identical sequences | No landscape sources were inspected |
+| Jordan Lee | Described platform boundaries, returned inputs, support context, and copied-configuration cost | No ticket or operating record was inspected |
+
+These observations do not establish formal authority, enterprise prevalence, or approved product scope.

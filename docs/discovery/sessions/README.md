@@ -13,4 +13,4 @@ Each session should contain a brief, a clearly labeled simulated transcript, and
 | Session | Status | Artifacts |
 | --- | --- | --- |
 | SES-001 - Executive Kickoff | Recorded fictional simulation | [Brief](SES-001-executive-kickoff/00-session-brief.md), [transcript](SES-001-executive-kickoff/01-simulated-transcript.md), and [record](SES-001-executive-kickoff/02-session-record.md) |
-
+| SES-002 - Platform Product Discovery | Recorded fictional simulation | [Brief](SES-002-platform-product-discovery/00-session-brief.md), [transcript](SES-002-platform-product-discovery/01-simulated-transcript.md), and [record](SES-002-platform-product-discovery/02-session-record.md) |

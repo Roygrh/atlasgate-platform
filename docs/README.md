@@ -3,7 +3,7 @@
 This directory is the entry point for repository documentation.
 
 - [Build from Zero](build-from-zero/README.md): verified reconstruction steps and current progress.
-- [Discovery](discovery/README.md): fictional business context, session records, stakeholder evidence, preliminary findings, outcome candidates, uncertainty registers, and terminology.
+- [Discovery](discovery/README.md): fictional business context, session records, stakeholder evidence, consumer segments, current-state journeys, product hypotheses, preliminary findings, outcome candidates, uncertainty registers, and terminology.
 - [Architecture](architecture/README.md): evidence-based architecture documentation scope and current state.
 - [Architecture decision governance](architecture/decisions/README.md): decision-record thresholds, lifecycle, review, and traceability.
 - [Risk register](project-management/risk-register.md): project risks, ownership, triggers, and mitigation.

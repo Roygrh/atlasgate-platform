@@ -61,3 +61,13 @@ The fictional [SES-001 executive kickoff](sessions/SES-001-executive-kickoff/02-
 - **Still unknown:** Enterprise prevalence and root causes, consumer and journey priority, inventory completeness, obligations, criticality, telemetry, total cost, capacity, formal decision rights, and any approved outcome or target.
 
 This evidence does not validate the initial business-driver list or any architecture direction.
+
+## Platform product discovery evidence
+
+The fictional [SES-002 platform product discovery](sessions/SES-002-platform-product-discovery/02-session-record.md) adds bounded simulated evidence:
+
+- **Supported observations within the simulation:** Participants described three distinct journeys and differentiated domain producers, internal consumers, partner developers, reviewers, and platform operator/support needs. They reported handoffs, missing context, informal alternatives, external dependencies, and weak outcome attribution.
+- **Challenged interpretations:** A total partner-launch duration was challenged because partner waiting was mixed with Northstar work; a universal workflow was challenged by different triggers and release cadences; API counts and portal logins were challenged as value measures.
+- **Unknown facts:** Prevalence, source-backed timelines, applicable obligations, direct consumer experience, workaround frequency and harm, inventory coverage, costs, authority, feasible baselines, and targets remain unknown.
+
+SES-002 does not establish an enterprise operating model, approved product scope, or architecture direction.
