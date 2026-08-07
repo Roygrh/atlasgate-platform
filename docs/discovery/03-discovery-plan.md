@@ -1,6 +1,6 @@
 # Discovery Engagement Plan
 
-All activities below are fictional simulations involving fictional Northstar Digital Group participants. Only the executive kickoff has been simulated and recorded for portfolio purposes; all later activities remain planned and incomplete.
+All activities below are fictional simulations involving fictional Northstar Digital Group participants. The executive kickoff and platform product discovery have been simulated and recorded for portfolio purposes; all later activities remain planned and incomplete.
 
 ## 1. Executive kickoff
 
@@ -15,7 +15,7 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 2. Platform product discovery
 
-- **Status:** Planned and incomplete.
+- **Status:** Simulated and recorded for portfolio purposes on 2026-08-06. See the [brief](sessions/SES-002-platform-product-discovery/00-session-brief.md), [simulated transcript](sessions/SES-002-platform-product-discovery/01-simulated-transcript.md), and [session record](sessions/SES-002-platform-product-discovery/02-session-record.md).
 
 - **Purpose:** Explore consumer segments, current journeys, pain points, value hypotheses, adoption barriers, and possible measures.
 - **Participants:** API platform product manager, platform engineering representatives, domain leads, partner integration lead, and architect.

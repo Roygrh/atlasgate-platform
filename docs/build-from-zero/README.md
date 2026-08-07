@@ -18,7 +18,9 @@ Every iteration must update the relevant reconstruction chapter and the iteratio
 - [01 - Repository Bootstrap](01-repository-bootstrap.md): reconstruction of the committed governance baseline.
 - [02 - Discovery Artifacts](02-discovery-artifacts.md): reconstruction and extension rules for the discovery and decision-governance foundation.
 - [03 - Executive Kickoff](03-executive-kickoff.md): reconstruction of the first fictional simulated session and its traceable evidence chain.
+- [04 - Platform Product Discovery](04-platform-product-discovery.md): reconstruction of the second fictional simulation, consumer segments, current-state journeys, product hypotheses, and evidence propagation.
 - Repository governance and documentation entry points: complete for `I00-P01`.
 - Discovery planning, stakeholder modeling, risk governance, and architecture decision governance: complete for `I00-P02`.
 - Fictional SES-001 executive-kickoff simulation, evidence, preliminary findings, and outcome candidates: complete for `I01-P01`; none is an approved requirement or validated enterprise conclusion.
+- Fictional SES-002 product-discovery simulation, segments, journeys, hypotheses, findings, and synthesis: complete for `I01-P02`; all remain preliminary or under validation.
 - Application, build, runtime, and deployment reconstruction: deferred; none has been implemented.

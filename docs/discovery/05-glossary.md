@@ -6,6 +6,12 @@ These definitions support discovery and do not imply that the described behavior
 | --- | --- |
 | API product | An API or related set of APIs managed for defined consumers and outcomes across a lifecycle. |
 | API consumer | A person, team, partner, or software system that uses an API. |
+| Consumer segment | A preliminary grouping of consumers with similar jobs and constraints, maintained as a validation subject rather than approved scope. |
+| Current-state journey | An evidence-linked ordered description of how actors currently attempt an outcome, including handoffs, alternatives, friction, and uncertainty. |
+| Product hypothesis | A falsifiable proposition connecting a segment or journey to an expected observable effect and rejection signal. |
+| Workaround | An alternative used to bypass or accelerate part of a current journey that may shift cost or risk elsewhere. |
+| Adoption | Use of a path or practice by an eligible consumer; it is not sufficient evidence of value without a related outcome. |
+| Candidate measure | A proposed observation for evaluating an outcome whose feasibility, baseline, attribution, and target are not yet established. |
 | Control plane | The concern responsible for configuring, governing, and managing runtime behavior; its exact AtlasGate scope is undecided. |
 | Data plane | The concern that handles API traffic according to effective runtime configuration; it is not yet implemented. |
 | Gateway runtime | A prospective data-plane component that would process API traffic; its capabilities and technology are undecided. |

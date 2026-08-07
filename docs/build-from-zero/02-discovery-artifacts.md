@@ -18,7 +18,7 @@ The company profile bounds the fictional scenario, the stakeholder map defines p
 
 ## Identifier conventions
 
-Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for findings, `OUT-NNN` for outcome candidates, `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, and `ADR-NNNN` for architecture decisions. Identifiers are never renumbered or reused; closed and superseded records remain traceable. See [03 - Executive Kickoff](03-executive-kickoff.md) for the first statement-to-analysis workflow.
+Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for findings, `SEG-NNN` for consumer segments, `JRN-NNN` for journeys, `HYP-NNN` for hypotheses, `OUT-NNN` for outcome candidates, `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, and `ADR-NNNN` for architecture decisions. Identifiers are never renumbered or reused; closed and superseded records remain traceable. See [03 - Executive Kickoff](03-executive-kickoff.md) for the first statement-to-analysis workflow and [04 - Platform Product Discovery](04-platform-product-discovery.md) for segment, journey, and hypothesis derivation.
 
 ## Validation
 
@@ -31,4 +31,4 @@ Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for
 
 ## Current limitation
 
-This chapter reconstructs the discovery foundation. SES-001 now provides a fictional simulated session and preliminary synthesis, as reconstructed in the next chapter. There are no validated findings, approved requirements, final architecture baseline, or implemented capabilities.
+This chapter reconstructs the discovery foundation. SES-001 and SES-002 now provide fictional simulated sessions and preliminary synthesis, as reconstructed in the next two chapters. There are no validated findings, segments, or journeys; no supported hypotheses; no approved requirements; no final architecture baseline; and no implemented capabilities.
