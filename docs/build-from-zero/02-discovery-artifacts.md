@@ -18,7 +18,7 @@ The company profile bounds the fictional scenario, the stakeholder map defines p
 
 ## Identifier conventions
 
-Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for findings, `SEG-NNN` for consumer segments, `JRN-NNN` for journeys, `HYP-NNN` for hypotheses, `OUT-NNN` for outcome candidates, `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, and `ADR-NNNN` for architecture decisions. Identifiers are never renumbered or reused; closed and superseded records remain traceable. See [03 - Executive Kickoff](03-executive-kickoff.md) for the first statement-to-analysis workflow and [04 - Platform Product Discovery](04-platform-product-discovery.md) for segment, journey, and hypothesis derivation.
+Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for findings, `SEG-NNN` for consumer segments, `JRN-NNN` for journeys, `HYP-NNN` for hypotheses, `OUT-NNN` for outcome candidates, `ASM-NNN` for assumptions, `OQ-NNN` for open questions, `RSK-NNN` for risks, `AST-NNN` for assets, `BND-NNN` for boundaries, `OBL-NNN` for obligation candidates, `THR-NNN` for threat scenarios, `EXC-NNN` for exception cases, `EVR-NNN` for evidence requirements, and `ADR-NNNN` for architecture decisions. Identifiers are never renumbered or reused; closed and superseded records remain traceable. See [03 - Executive Kickoff](03-executive-kickoff.md), [04 - Platform Product Discovery](04-platform-product-discovery.md), and [05 - Security and Compliance Discovery](05-security-and-compliance-discovery.md) for their derivation workflows.
 
 ## Validation
 
@@ -31,4 +31,4 @@ Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for
 
 ## Current limitation
 
-This chapter reconstructs the discovery foundation. SES-001 and SES-002 now provide fictional simulated sessions and preliminary synthesis, as reconstructed in the next two chapters. There are no validated findings, segments, or journeys; no supported hypotheses; no approved requirements; no final architecture baseline; and no implemented capabilities.
+This chapter reconstructs the discovery foundation. SES-001 through SES-003 now provide fictional simulated sessions and preliminary synthesis. There are no validated findings, segments, journeys, assets, or boundaries; no supported hypotheses; no confirmed obligations; no assessed threats; no approved exceptions, requirements, or controls; no final architecture baseline; and no implemented capabilities.

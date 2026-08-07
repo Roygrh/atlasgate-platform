@@ -27,3 +27,14 @@ These definitions support discovery and do not imply that the described behavior
 | SLI | Service level indicator: a quantitative measure of an aspect of service behavior. |
 | SLO | Service level objective: a target value or range for an SLI over a defined period. |
 | Error budget | The permitted amount of behavior outside an SLO over its defined period. |
+| Asset | Something potentially valuable or sensitive that may need protection. |
+| Trust boundary | A point where trust, responsibility, actor, organization, system, or environment changes. |
+| Obligation candidate | A possible duty whose source and applicability require authoritative interpretation. |
+| Threat scenario | A plausible adverse sequence used as input to later threat analysis, not an assessed risk. |
+| Control objective | A technology-neutral desired security outcome, distinct from an approved requirement or selected control. |
+| Exception | A requested deviation from an expected condition, with unresolved authority, scope, duration, monitoring, and closure unless approved elsewhere. |
+| Evidence requirement | A candidate need for information supporting a defined decision, review, or audit purpose. |
+| Audit evidence | Information intended to support a reviewable conclusion about a decision, obligation, or control; sufficiency and retention require validation. |
+| Operational telemetry | Logs, metrics, traces, or related signals produced primarily to understand operation and diagnose behavior. |
+| Revocation | Removal or invalidation of access when authorization, purpose, ownership, or duration no longer supports it. |
+| Evidence minimization | Limiting collected and retained evidence to what is necessary for a stated purpose while preserving required integrity and context. |

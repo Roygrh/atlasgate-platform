@@ -38,11 +38,11 @@ These segments derive from the fictional simulated [SES-002 transcript](../sessi
 ## SEG-004 - Security or compliance reviewer
 
 - **Primary jobs:** Assess applicable obligations and evidence, review risk, and clarify routine approval and exception routes.
-- **Current alternatives:** Existing review channels and returned requests for missing information; specifics were not represented directly in SES-002.
-- **Needs or pain points:** Timely and complete inputs, flow context, accountable decisions, and evidence reuse without weakening review.
-- **Evidence:** STMT-021, STMT-025, STMT-028; supplemented by SES-001 STMT-007 through STMT-010 and STMT-016.
-- **Important differences:** Reviewer needs vary with data, audience, jurisdiction, and obligation; none was established here.
-- **Validation needed:** Security and compliance workshop, review samples, obligation sources, and exception records.
+- **Current alternatives:** Existing review channels, returned requests, email coordination, and unverified exception packaging; no source record was inspected.
+- **Needs or pain points:** Timely and complete flow context, authoritative obligation sources, accountable decisions, purpose-specific evidence, minimization, and expiry/closure visibility.
+- **Evidence:** STMT-021, STMT-025, STMT-028; SES-001 STMT-007 through STMT-010 and STMT-016; SES-003 STMT-048, STMT-054 through STMT-056, STMT-060, STMT-062 through STMT-065, STMT-072, STMT-075.
+- **Important differences:** Security advice, compliance interpretation, business accountability, and formal approval may differ by asset, flow, environment, and source.
+- **Validation needed:** Sanitized review, access, exception, audit-evidence, and source-interpretation records with direct reviewer evidence.
 - **Owner:** Elena García
 - **Status:** Preliminary
 
