@@ -71,3 +71,13 @@ The fictional [SES-002 platform product discovery](sessions/SES-002-platform-pro
 - **Unknown facts:** Prevalence, source-backed timelines, applicable obligations, direct consumer experience, workaround frequency and harm, inventory coverage, costs, authority, feasible baselines, and targets remain unknown.
 
 SES-002 does not establish an enterprise operating model, approved product scope, or architecture direction.
+
+## Security and compliance evidence
+
+The fictional [SES-003 security and compliance discovery](sessions/SES-003-security-and-compliance-discovery/02-session-record.md) adds bounded simulated evidence, separate from objective company facts:
+
+- **Observed simulated evidence:** Four scenarios exposed possible customer, order, transaction, loyalty, identity, access, decision-record, and telemetry assets plus partner, environment, domain/platform, actor, consumer, and evidence-purpose boundaries.
+- **Challenged interpretations:** Participants challenged security review as the primary delay, a universal checklist, one identity or approval model, Security-only exception authority, centralized enforcement by default, and full telemetry retention for audit.
+- **Still unknown:** Classifications, applicable obligations, authoritative sources, access lifecycle coverage, review causes, exception authority, evidence sufficiency, retention, current support access, threat likelihood, and implemented controls.
+
+This evidence makes no legal conclusion, compliance claim, approved requirement, control selection, or architecture decision.

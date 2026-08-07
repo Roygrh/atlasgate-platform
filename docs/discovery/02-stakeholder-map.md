@@ -48,3 +48,19 @@ This section records observations from the fictional [SES-002 platform product d
 | Jordan Lee | Described platform boundaries, returned inputs, support context, and copied-configuration cost | No ticket or operating record was inspected |
 
 These observations do not establish formal authority, enterprise prevalence, or approved product scope.
+
+## SES-003 observed simulated evidence
+
+This section records observations from the fictional [SES-003 security and compliance discovery](sessions/SES-003-security-and-compliance-discovery/02-session-record.md), separately from planned roles and objective company facts.
+
+| Participant | Participation and observed priorities | Limitation |
+| --- | --- | --- |
+| Daniel Okafor | Preserved scenario differences, timing categories, non-decisions, and owned evidence requests | No evidence sample was collected |
+| Elena García | Framed assets, access lifecycle, threat inputs, review attribution, exception closure, and unapproved control objectives | No control or obligation was assessed |
+| Henry Walsh | Separated source interpretation, audit evidence, telemetry, retention, and minimization | No authoritative source or legal interpretation was reviewed |
+| Aisha Bello | Challenged universal treatment and exposed commerce urgency, loyalty differences, and domain ownership | Recalled domain examples only |
+| Sofia Novak | Exposed partner organization, identity, waiting, support audience, and minimization concerns | No external partner participated |
+| Priya Raman | Framed trust boundaries and challenged centralized enforcement as a default | No system or responsibility map was inspected |
+| Jordan Lee | Traced access lifecycle, cloned/shared access, support diagnostics, revocation, and cleanup | No access, ticket, or incident record was inspected |
+
+These observations do not establish formal authority, enterprise prevalence, legal applicability, approved requirements, selected controls, or implemented behavior.

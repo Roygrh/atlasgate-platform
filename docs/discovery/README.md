@@ -29,6 +29,7 @@ Future simulated sessions will start from the [engagement plan](03-discovery-pla
 - [Preliminary findings](findings/README.md): synthesis with conflicts, limitations, and validation needs.
 - [Business context and outcome candidates](06-business-context-and-outcomes.md): current framing and unapproved outcome candidates.
 - [Platform product discovery synthesis](07-platform-product-discovery.md): preliminary consumers, journeys, friction, adoption, and measures.
+- [Security and compliance discovery synthesis](08-security-and-compliance-discovery.md) and [security records](security/README.md): preliminary assets, boundaries, obligations, threats, exceptions, and evidence requirements.
 - [Consumer segments](consumers/README.md), [current-state journeys](journeys/README.md), and [product hypotheses](hypotheses/README.md): evidence-linked analysis with non-terminal status.
 - Proposed requirements will be added only when relevant evidence and an approval process exist; none exists now.
 
@@ -36,4 +37,4 @@ Future evidence must use stable identifiers and link from its source session to 
 
 ## Current state
 
-SES-001 and SES-002 have been simulated and recorded for portfolio purposes. Their statements, preliminary findings, segments, journeys, hypotheses, outcome candidates, constraints, disagreements, and follow-ups are traceable. Security/compliance and every later activity remain planned and incomplete; no finding, segment, or journey is validated; no hypothesis is supported; no requirement has been proposed, approved, or baselined; and no architecture decision has been made.
+SES-001, SES-002, and SES-003 have been simulated and recorded for portfolio purposes. Their statements, preliminary findings, segments, journeys, hypotheses, outcome candidates, security-context records, obligation candidates, threat scenarios, exception cases, evidence requirements, constraints, disagreements, and follow-ups are traceable. Reliability/operations and every later activity remain planned and incomplete; no finding, segment, or journey is validated; no hypothesis is supported; no obligation or legal applicability is confirmed; no requirement has been proposed, approved, or baselined; no control is selected or implemented; and no architecture decision has been made.

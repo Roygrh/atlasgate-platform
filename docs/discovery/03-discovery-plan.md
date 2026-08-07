@@ -1,6 +1,6 @@
 # Discovery Engagement Plan
 
-All activities below are fictional simulations involving fictional Northstar Digital Group participants. The executive kickoff and platform product discovery have been simulated and recorded for portfolio purposes; all later activities remain planned and incomplete.
+All activities below are fictional simulations involving fictional Northstar Digital Group participants. The executive kickoff, platform product discovery, and security/compliance discovery have been simulated and recorded for portfolio purposes; all later activities remain planned and incomplete.
 
 ## 1. Executive kickoff
 
@@ -24,9 +24,9 @@ All activities below are fictional simulations involving fictional Northstar Dig
 - **Preparation:** Bring current process examples and inventory sources if available; review terminology.
 - **Exit criteria:** Problems are separated from proposed solutions, evidence gaps are owned, and no capability is labeled approved.
 
-## 3. Security and compliance workshop
+## 3. Security and compliance discovery
 
-- **Status:** Planned and incomplete.
+- **Status:** Simulated and recorded for portfolio purposes on 2026-08-06. See the [brief](sessions/SES-003-security-and-compliance-discovery/00-session-brief.md), [simulated transcript](sessions/SES-003-security-and-compliance-discovery/01-simulated-transcript.md), and [session record](sessions/SES-003-security-and-compliance-discovery/02-session-record.md).
 
 - **Purpose:** Identify security objectives, data concerns, obligations, evidence needs, exceptions, and threat questions.
 - **Participants:** Security architect, compliance and audit representative, platform architect, domain representatives, and product manager.
