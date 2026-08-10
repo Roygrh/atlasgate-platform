@@ -56,3 +56,7 @@ These segments derive from the fictional simulated [SES-002 transcript](../sessi
 - **Validation needed:** Ticket samples, support routing, operational workshop, and ownership-source comparison.
 - **Owner:** Jordan Lee
 - **Status:** Under validation
+
+## SES-004 operational evidence
+
+Producers need consequence-aware mitigation and coordination without losing semantic ownership (STMT-083, STMT-100). Consumers need outcome and restoration evidence (STMT-090 through STMT-095). Partners need bounded communication evidence (STMT-079, STMT-099, STMT-107). Platform support needs ownership, correlation, and safe access without inheriting domain accountability (STMT-098, STMT-104). All segment states remain non-terminal.

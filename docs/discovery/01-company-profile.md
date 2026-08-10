@@ -81,3 +81,7 @@ The fictional [SES-003 security and compliance discovery](sessions/SES-003-secur
 - **Still unknown:** Classifications, applicable obligations, authoritative sources, access lifecycle coverage, review causes, exception authority, evidence sufficiency, retention, current support access, threat likelihood, and implemented controls.
 
 This evidence makes no legal conclusion, compliance claim, approved requirement, control selection, or architecture decision.
+
+## Reliability and operations evidence (fictional SES-004)
+
+Simulated evidence suggests criticality varies by outcome and period; infrastructure health may not represent consumer outcomes; and ownership uncertainty may concentrate at domain, platform, partner, consumer, and access boundaries. Telemetry existence, reliability performance, incident frequency, service commitments, and implemented operational controls remain unknown. No target, operating model, or observability architecture is approved.

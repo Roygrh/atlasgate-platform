@@ -38,3 +38,18 @@ These definitions support discovery and do not imply that the described behavior
 | Operational telemetry | Logs, metrics, traces, or related signals produced primarily to understand operation and diagnose behavior. |
 | Revocation | Removal or invalidation of access when authorization, purpose, ownership, or duration no longer supports it. |
 | Evidence minimization | Limiting collected and retained evidence to what is necessary for a stated purpose while preserving required integrity and context. |
+| Critical journey | A consumer or business outcome whose consequence and critical periods require validation. |
+| Incident scenario | A hypothetical service-impact situation used to test signals and responsibilities. |
+| Operational ownership | Responsibility for operating or responding within a defined boundary. |
+| Support boundary | A point where diagnostic, communication, or assistance responsibility changes. |
+| Detection | Recognition of possible impact; it does not establish cause. |
+| Diagnosis | Evidence-based identification of likely cause and accountable boundary. |
+| Restoration | Verified return of the selected consumer outcome, distinct from mitigation or closure. |
+| Telemetry candidate | A possible operational signal whose existence and fitness require validation. |
+| Service-level indicator | A defined measurement of a service or user outcome; it is not a target. |
+| Service-level objective | A desired indicator level over a period; none is approved for AtlasGate. |
+| Service-level agreement | A service commitment and associated consequences; none is approved for AtlasGate. |
+| Error budget | Allowable unreliability derived from an approved objective; none exists for AtlasGate. |
+| False positive | A signal that indicates actionable impact when the defined condition is absent. |
+| Alert fatigue | Reduced responder effectiveness caused by excessive or low-value signals. |
+| Recovery evidence | Purpose-appropriate information showing mitigation and verified restoration events. |

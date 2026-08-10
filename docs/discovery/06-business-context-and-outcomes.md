@@ -44,3 +44,7 @@ Funding-priority sponsorship is attributed to Maya Chen. Authority remains uncle
 ## Evidence still required
 
 Representative source-backed delivery journeys, API inventory and ownership sources, dependency information, security review and exception samples, applicable obligation sources, incident and escalation samples, telemetry availability, direct internal and external-consumer evidence, partner categories, workaround prevalence, measure feasibility, cost boundaries, finance review, and a confirmed authority map are still required. SES-002 produced preliminary segments and journey drafts, not validation.
+
+## SES-004 outcome evidence
+
+OUT-004 gains target-free evidence that correct owner identification, acknowledgement, diagnosis, restoration, and closure are distinct and that an owner-time measure can be gamed (STMT-094, STMT-097 through STMT-103). OUT-001 gains external-wait and consumer-outcome cautions (STMT-080, STMT-088, STMT-091). No baseline or target is established and no new outcome is created.

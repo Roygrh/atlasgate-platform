@@ -49,3 +49,7 @@ These ordered-text journeys derive from the fictional simulated [SES-002 transcr
 - **Related outcomes or questions:** OUT-001, OUT-002; OQ-008, OQ-013, OQ-015.
 - **Owner:** Sofia Novak
 - **Status:** Preliminary
+
+## SES-004 operational evidence
+
+JRN-001 now has a launch-degradation scenario and hidden direct-chat support cost (STMT-083 through STMT-089). JRN-002 has semantic-change, consumer-detection, and restoration-evidence questions (STMT-090 through STMT-096). JRN-003 includes partner-visible symptoms, communication, and external-wait separation (STMT-079, STMT-084, STMT-088, STMT-099). No journey is validated.

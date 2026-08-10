@@ -22,6 +22,8 @@ Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for
 
 ## Validation
 
+SES-004 additionally uses immutable `CRJ-NNN`, `INC-NNN`, `OWN-NNN`, `TEL-NNN`, and `SLI-NNN` sequences for critical journeys, incident scenarios, ownership boundaries, telemetry candidates, and SLI candidates respectively; see [06](06-reliability-and-operations-discovery.md).
+
 - Confirm every Markdown link resolves to an existing repository file.
 - Confirm statements, findings, assumptions, hypotheses, requirements, and decisions remain distinguishable.
 - Confirm only sessions actually simulated for the portfolio are described as completed and no proposal is described as approved.
@@ -31,4 +33,4 @@ Use `SES-NNN` for sessions, `STMT-NNN` for stakeholder statements, `FND-NNN` for
 
 ## Current limitation
 
-This chapter reconstructs the discovery foundation. SES-001 through SES-003 now provide fictional simulated sessions and preliminary synthesis. There are no validated findings, segments, journeys, assets, or boundaries; no supported hypotheses; no confirmed obligations; no assessed threats; no approved exceptions, requirements, or controls; no final architecture baseline; and no implemented capabilities.
+This chapter reconstructs the discovery foundation. SES-001 through SES-004 now provide fictional simulated sessions and preliminary synthesis; see [06](06-reliability-and-operations-discovery.md). There are no validated findings, segments, journeys, assets, or boundaries; no supported hypotheses; no confirmed obligations; no assessed threats; no approved exceptions, requirements, targets, commitments, or controls; no final architecture baseline; and no implemented capabilities.

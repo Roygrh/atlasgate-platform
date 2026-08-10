@@ -64,3 +64,7 @@ This section records observations from the fictional [SES-003 security and compl
 | Jordan Lee | Traced access lifecycle, cloned/shared access, support diagnostics, revocation, and cleanup | No access, ticket, or incident record was inspected |
 
 These observations do not establish formal authority, enterprise prevalence, legal applicability, approved requirements, selected controls, or implemented behavior.
+
+## SES-004 observed simulated evidence
+
+Daniel facilitated target-free criticality framing; Marcus separated lifecycle clocks and indicator candidates; Jordan bounded platform operation and telemetry gaps; Aisha represented commerce consequence and domain mitigation; Lucas represented loyalty semantics and consumers; Sofia represented partner symptoms, waiting, and communication; Priya separated responsibilities and challenged centralization. All observations are fictional, preliminary, and source-limited.

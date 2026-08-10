@@ -24,3 +24,5 @@ All records derive from fictional simulated evidence. Sensitivity and ownership 
 | BND-004 | Human to service actor | Named people and non-human service identities | Delegation and attribution may be lost | STMT-050, STMT-055 | Actor inventory and delegation model unknown | Jordan Lee | Preliminary |
 | BND-005 | Commerce or loyalty producer to consuming team | Data producer and internal consumer services/teams | Purpose, downstream use, change, and revocation differ | STMT-057 through STMT-060 | Consumer inventory and data-use evidence absent | Priya Raman | Preliminary |
 | BND-006 | Operational telemetry to durable review evidence | Diagnostic producers/consumers and decision/audit consumers | Purpose, context, integrity, minimization, and retention differ | STMT-061, STMT-070, STMT-072 | Evidence rules and sources not inspected | Henry Walsh | Under validation |
+
+SES-004 adds simulated support for BND-003 and BND-006: urgency does not displace safe-access lifecycle questions, and diagnostic telemetry does not automatically become durable evidence (STMT-104, STMT-107 through STMT-109). Statuses remain non-terminal.

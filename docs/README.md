@@ -11,5 +11,5 @@ This directory is the entry point for repository documentation.
 - [Target-role evidence map](portfolio/target-role-evidence-map.md): planned and implemented portfolio evidence.
 - Architecture views and diagrams: planned; no diagrams exist yet.
 - [Security and compliance discovery](discovery/security/README.md): preliminary documentation records only; no approved or implemented controls.
-- Operations and reliability: planned.
+- [Reliability and operations discovery](discovery/09-reliability-and-operations-discovery.md): fictional simulation recorded; targets and implementation remain absent.
 - Testing strategy: planned.

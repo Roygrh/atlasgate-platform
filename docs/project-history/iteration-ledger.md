@@ -84,6 +84,7 @@ This ledger is the chronological, factual record of AtlasGate delivery. Every it
 ## I01-P03 - Security and compliance discovery
 
 - **Date:** 2026-08-06
+- **Verified commit:** `73ab8998b6ff94f6643bc237871f1f2d003c98a7` - `docs: simulate security and compliance discovery`.
 - **Objective:** Conduct and document fictional SES-003 across four API scenarios, then derive traceable preliminary assets, boundaries, obligation candidates, threat scenarios, exception cases, evidence requirements, findings, risks, and propagated discovery context without approving requirements, controls, legal applicability, or architecture.
 - **Starting state:** `main` was clean and aligned with `origin/main` at verified commit `85841a5`; SES-001 and SES-002 were committed, `STMT-046`, `FND-014`, `ASM-011`, `OQ-015`, and `RSK-016` were the sequence maxima, and the private plan was ignored, untracked, and read silently.
 - **Files created and modified:** Created three SES-003 artifacts; the security entry point and five typed registers; `docs/discovery/08-security-and-compliance-discovery.md`; and `docs/build-from-zero/05-security-and-compliance-discovery.md`. Modified the statement, finding, company, stakeholder, plan, assumption/question, glossary, outcome, consumer, journey, hypothesis, risk, discovery/documentation index, Build from Zero, ledger, and portfolio files listed by final Git validation.
@@ -94,3 +95,17 @@ This ledger is the chronological, factual record of AtlasGate delivery. Every it
 - **Known limitations:** All discussion and records are fictional simulations. No policy, contract, law, privacy interpretation, identity source, access event, exception, audit artifact, telemetry source, support case, incident, retention schedule, or direct consumer evidence was inspected. Estimates, prevalence, applicability, authority, classifications, sufficiency, and causal attribution remain unverified.
 - **Commit / pull request:** Not created; nothing was staged or pushed.
 - **Next expected prompt:** Conduct fictional reliability and operations discovery focused on critical journeys, ownership, incidents, telemetry, support boundaries, SLI candidates, and unsupported service targets, without approving SLOs or claiming implemented observability.
+
+## I01-P04 - Reliability and operations discovery
+
+- **Date:** 2026-08-09
+- **Objective:** Conduct fictional SES-004 and derive target-free critical journeys, incident scenarios, ownership/support boundaries, telemetry candidates, SLI candidates, findings, risks, and propagated operational context.
+- **Starting state:** `main` was clean and aligned with `origin/main` at verified commit `73ab899`; SES-001 through SES-003 were committed; sequence maxima were STMT-075, FND-020, ASM-013, OQ-020, and RSK-019; the private plan was ignored, untracked, and read silently.
+- **Files created and modified:** Created three SES-004 artifacts, the reliability entry point and five registers, the reliability synthesis, and Build from Zero chapter 06. Modified discovery evidence, findings, context, governance, risk, reconstruction, history, and portfolio documentation shown by final Git validation.
+- **Simulation method:** Simulated 36 exchanges among seven fictional perspectives across four distinct scenarios; preserved tensions, two unverified estimates, lifecycle distinctions, workarounds, telemetry limitations, candidate indicator reasoning, and owner-assigned evidence requests without consensus.
+- **Evidence produced:** STMT-076 through STMT-111; FND-021 through FND-027; three critical journeys; four incident scenarios; six ownership records; seven telemetry candidates; seven SLI candidates; three open questions; three risks; and propagated reliability context.
+- **Commands executed:** Repository/guidance inspection; Git status, branch, log, remote, revision alignment, ignore/tracking checks; documentation inventory and reads; silent private-plan read; scoped patches; and final Markdown, ID, reference, status, scope, Git, and private-plan validation.
+- **Validation results:** Final command observations and automated documentation checks are reported in the handoff; no application tests apply to documentation-only scope.
+- **Known limitations:** All content is fictional. No incident, support, telemetry, traffic, ownership, access, change, partner, contract, recovery, or target-authority source was inspected. No reliability level, metric availability, commitment, architecture, or behavior is validated.
+- **Commit / pull request:** Not created; nothing was staged or pushed.
+- **Next expected prompt:** Conduct fictional domain workflow discovery comparing commerce and loyalty delivery constraints, dependencies, ownership, and adoption needs without approving requirements.

@@ -25,4 +25,5 @@ Every iteration must update the relevant reconstruction chapter and the iteratio
 - Fictional SES-001 executive-kickoff simulation, evidence, preliminary findings, and outcome candidates: complete for `I01-P01`; none is an approved requirement or validated enterprise conclusion.
 - Fictional SES-002 product-discovery simulation, segments, journeys, hypotheses, findings, and synthesis: complete for `I01-P02`; all remain preliminary or under validation.
 - Fictional SES-003 security/compliance simulation and preliminary security records: complete for `I01-P03`; no legal applicability, requirement, control objective, control, exception, or architecture is approved.
+- Fictional SES-004 reliability/operations simulation and target-free registers: complete for `I01-P04`; no target, commitment, tooling, or observability is approved or implemented. See [06](06-reliability-and-operations-discovery.md).
 - Application, build, runtime, and deployment reconstruction: deferred; none has been implemented.

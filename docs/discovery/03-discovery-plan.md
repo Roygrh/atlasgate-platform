@@ -37,7 +37,7 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 4. Reliability and operations workshop
 
-- **Status:** Planned and incomplete.
+- **Status:** Fictional simulation recorded as [SES-004](sessions/SES-004-reliability-and-operations-discovery/02-session-record.md); source validation and target review remain incomplete.
 
 - **Purpose:** Understand operational ownership, incidents, observability gaps, support expectations, and service-level inputs.
 - **Participants:** SRE and observability lead, platform engineering, domain operations representatives, product manager, and architect.
