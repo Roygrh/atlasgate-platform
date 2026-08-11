@@ -60,3 +60,12 @@ These segments derive from the fictional simulated [SES-002 transcript](../sessi
 ## SES-004 operational evidence
 
 Producers need consequence-aware mitigation and coordination without losing semantic ownership (STMT-083, STMT-100). Consumers need outcome and restoration evidence (STMT-090 through STMT-095). Partners need bounded communication evidence (STMT-079, STMT-099, STMT-107). Platform support needs ownership, correlation, and safe access without inheriting domain accountability (STMT-098, STMT-104). All segment states remain non-terminal.
+
+## SES-005 domain-workflow evidence
+
+- **SEG-001 Domain API producer:** needs domain-specific completion context, dependency visibility, and lower-friction governance while retaining semantic authority (STMT-114, STMT-125, STMT-136, STMT-145, STMT-146).
+- **SEG-002 Internal API consumer:** owns impact assessment, testing, scheduling, and product use; needs semantic clarity and adoption/migration context without forced synchronization (STMT-131, STMT-136 through STMT-144).
+- **SEG-003 External partner developer:** owns partner-side implementation/readiness and depends on clear Commerce behavior and support context; direct partner evidence remains absent (STMT-118 through STMT-123).
+- **SEG-005 Platform operator and support team:** coordinates platform context and routing without inheriting Commerce or Loyalty semantics or consumer deadlines (STMT-116, STMT-133, STMT-141).
+
+No segment is validated.

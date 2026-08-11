@@ -12,4 +12,5 @@ This directory is the entry point for repository documentation.
 - Architecture views and diagrams: planned; no diagrams exist yet.
 - [Security and compliance discovery](discovery/security/README.md): preliminary documentation records only; no approved or implemented controls.
 - [Reliability and operations discovery](discovery/09-reliability-and-operations-discovery.md): fictional simulation recorded; targets and implementation remain absent.
+- [Domain workflow discovery](discovery/10-domain-workflow-discovery.md): fictional Commerce/Loyalty comparison recorded; no universal workflow, requirement, or ownership model is approved.
 - Testing strategy: planned.

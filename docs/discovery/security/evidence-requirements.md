@@ -1,5 +1,9 @@
 # Preliminary Evidence Requirements
 
+## SES-005 refinement
+
+Future flow samples should preserve reason-coded review requests/returns, decision provenance, controlling party, partner or consumer pauses, and completion/closure claims (STMT-121, STMT-124, STMT-130, STMT-147). Evidence minimum, access, integrity, and retention remain governed by unresolved SES-003 questions; full payloads are not requested.
+
 These are candidate evidence needs, not proof that evidence exists. Audit or decision evidence is distinguished from operational telemetry; no retention period is invented.
 
 | ID | Evidence need | Purpose | Source or producer | Consumer or reviewer | Timing | Retention or minimization question | Integrity or access concern | Supporting evidence | Validation needed | Owner | Status |

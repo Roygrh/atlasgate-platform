@@ -30,6 +30,7 @@ Future simulated sessions will start from the [engagement plan](03-discovery-pla
 - [Business context and outcome candidates](06-business-context-and-outcomes.md): current framing and unapproved outcome candidates.
 - [Platform product discovery synthesis](07-platform-product-discovery.md): preliminary consumers, journeys, friction, adoption, and measures.
 - [Security and compliance discovery synthesis](08-security-and-compliance-discovery.md) and [security records](security/README.md): preliminary assets, boundaries, obligations, threats, exceptions, and evidence requirements.
+- [Domain workflow discovery synthesis](10-domain-workflow-discovery.md) and [domain records](domains/README.md): preliminary Commerce/Loyalty workflows, dependencies, handoffs, adoption needs, and variation analysis.
 - [Consumer segments](consumers/README.md), [current-state journeys](journeys/README.md), and [product hypotheses](hypotheses/README.md): evidence-linked analysis with non-terminal status.
 - Proposed requirements will be added only when relevant evidence and an approval process exist; none exists now.
 
@@ -37,4 +38,4 @@ Future evidence must use stable identifiers and link from its source session to 
 
 ## Current state
 
-SES-001 through SES-004 have been simulated and recorded for portfolio purposes. Their statements and preliminary analysis are traceable, including [reliability and operations synthesis](09-reliability-and-operations-discovery.md) and [reliability registers](reliability/README.md). Domain interviews, an external consumer interview, architecture alignment, synthesis review, and every later activity remain planned and incomplete; no finding, segment, or journey is validated; no hypothesis is supported; no obligation or legal applicability is confirmed; no requirement, target, or commitment is approved; no control or observability is implemented; and no architecture decision has been made.
+SES-001 through SES-005 have been simulated and recorded for portfolio purposes. Their statements and preliminary analysis are traceable, including [reliability records](reliability/README.md) and [domain workflow records](domains/README.md). External Consumer Discovery, Architecture Alignment, Discovery Synthesis and Baseline Review, and every later activity remain planned and incomplete; no finding, workflow, segment, or journey is validated; no hypothesis or adoption need is supported; no dependency or handoff is confirmed; no obligation or legal applicability is confirmed; no requirement, target, or commitment is approved; no control or observability is implemented; and no architecture decision has been made.

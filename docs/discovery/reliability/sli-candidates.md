@@ -1,5 +1,9 @@
 # Service-Level Indicator Candidate Register
 
+## SES-005 refinement
+
+SES-005 reinforces that deployment completion is not a valid universal proxy for partner readiness, consumer adoption, restoration, or migration closure (STMT-122, STMT-127, STMT-139, STMT-144). Existing candidates remain unmeasurable and target-free; no new SLI is approved.
+
 These are definition candidates only. None is measurable, approved, or associated with a numeric target, SLO, SLA, or error budget.
 
 | ID | Candidate indicator | Consumer or operational question | Applicable journey or segment | Numerator and denominator concept or event definition | Measurement boundary | Exclusions or pause rules | Supporting evidence | Limiting evidence | Required telemetry | Validation method | Owner | Status |

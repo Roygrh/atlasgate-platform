@@ -48,7 +48,7 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 5. Domain-team interviews
 
-- **Status:** Planned and incomplete.
+- **Status:** Fictionally simulated and recorded as SES-005; source validation remains incomplete.
 
 - **Purpose:** Compare commerce and loyalty delivery workflows, constraints, dependencies, and adoption needs.
 - **Participants:** Each domain lead, relevant engineers or product representatives, platform product manager, and facilitator.
@@ -56,6 +56,8 @@ All activities below are fictional simulations involving fictional Northstar Dig
 - **Expected outputs:** Attributed statements, current-journey drafts, domain-specific differences, shared themes, and validation requests.
 - **Preparation:** Request one representative delivery example per domain and review the evidence taxonomy.
 - **Exit criteria:** Domain evidence is recorded separately before comparison; contradictions are visible; interviews are not generalized beyond their evidence.
+
+- **Recorded result:** Four distinct Commerce and Loyalty cases, dependencies, handoffs, adoption needs, and evidence requests are traceable from the [SES-005 record](sessions/SES-005-domain-workflow-discovery/02-session-record.md). No universal workflow or requirement was approved.
 
 ## 6. External consumer interview
 

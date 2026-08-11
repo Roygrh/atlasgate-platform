@@ -48,3 +48,7 @@ Representative source-backed delivery journeys, API inventory and ownership sour
 ## SES-004 outcome evidence
 
 OUT-004 gains target-free evidence that correct owner identification, acknowledgement, diagnosis, restoration, and closure are distinct and that an owner-time measure can be gamed (STMT-094, STMT-097 through STMT-103). OUT-001 gains external-wait and consumer-outcome cautions (STMT-080, STMT-088, STMT-091). No baseline or target is established and no new outcome is created.
+
+## SES-005 outcome evidence
+
+OUT-001 gains domain-specific stage and completion distinctions plus an unverified mixed-delay estimate (STMT-118 through STMT-124, STMT-139, STMT-144). OUT-002 gains evidence that adoption depends on producer/consumer responsibility, semantic clarity, visible migration state, and avoidance of a central queue (STMT-136 through STMT-146). OUT-003 gains flow-specific review and authority context without resolving SES-003 obligations (STMT-124 through STMT-130). OUT-004 gains apparent-transfer and closure-boundary evidence (STMT-116, STMT-127, STMT-140, STMT-147). No new outcome, baseline, or target is created.

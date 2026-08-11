@@ -1,6 +1,6 @@
 # Current API Delivery Journeys
 
-These ordered-text journeys derive from the fictional simulated [SES-002 transcript](../sessions/SES-002-platform-product-discovery/01-simulated-transcript.md). They are not universal or validated workflows.
+These ordered-text journeys derive from the fictional simulated [SES-002 transcript](../sessions/SES-002-platform-product-discovery/01-simulated-transcript.md). They are not universal or validated workflows. Journeys describe broader consumer/delivery paths; the [domain workflow register](../domains/domain-workflows.md) adds scenario-level change behavior and is not a target process.
 
 ## JRN-001 - Commerce external partner launch
 
@@ -53,3 +53,12 @@ These ordered-text journeys derive from the fictional simulated [SES-002 transcr
 ## SES-004 operational evidence
 
 JRN-001 now has a launch-degradation scenario and hidden direct-chat support cost (STMT-083 through STMT-089). JRN-002 has semantic-change, consumer-detection, and restoration-evidence questions (STMT-090 through STMT-096). JRN-003 includes partner-visible symptoms, communication, and external-wait separation (STMT-079, STMT-084, STMT-088, STMT-099). No journey is validated.
+
+## SES-005 domain-workflow refinement
+
+- **JRN-001:** DWF-001 distinguishes Commerce behavior authority, partner implementation/readiness, review and platform coordination, and completion beyond deployment (STMT-118 through STMT-124). The seven-to-ten-day estimate is unverified.
+- **JRN-002:** DWF-003 and DWF-004 distinguish semantic change from migration. Loyalty retains semantics; consumers retain impact, test, schedule, and use responsibility; deployment does not force adoption (STMT-131 through STMT-144).
+- **JRN-003:** External partner onboarding remains broader than a dated partner change and still requires direct external evidence. SES-005 adds readiness, responsibility, and support-boundary questions, not validation (STMT-120, STMT-122).
+- **Additional case:** DWF-002 records a tenant-specific Commerce change separately; it is not promoted to a universal journey or mechanism (STMT-125 through STMT-130).
+
+Every journey remains `Preliminary` or `Under validation`; none is validated.

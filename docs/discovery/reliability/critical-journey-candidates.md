@@ -1,5 +1,9 @@
 # Critical Journey Candidates
 
+## SES-005 refinement
+
+Commerce partner-launch criticality may vary by launch and period, and deployment may precede partner transaction/support readiness (STMT-122). Loyalty semantic health may differ from syntactic health, while migration coexistence may widen diagnostic ambiguity (STMT-135, STMT-143). No critical journey or level is validated.
+
 These candidates are fictional and preliminary. None is validated or an approved service commitment.
 
 | ID | Journey or outcome | Primary actors | Business or consumer consequence | Possible critical periods | Dependency boundaries | Supporting evidence | Conflicting or limiting evidence | Validation needed | Owner | Status |

@@ -1,5 +1,9 @@
 # Telemetry Candidate Register
 
+## SES-005 refinement
+
+Potential evidence gaps now include partner readiness, returned handoffs, consumer adoption, residual use, semantic outcome, and closure state (STMT-121 through STMT-124, STMT-135 through STMT-144). These are evidence questions, not approved telemetry or collection mechanisms.
+
 Candidates do not assert that any signal exists, is complete, or is fit for use.
 
 | ID | Signal or evidence source | Intended operational purpose | Producer | Consumer | Covered journey or boundary | Known or suspected gaps | Quality or integrity question | Retention or access question | Supporting evidence | Validation needed | Owner | Status |

@@ -85,3 +85,11 @@ This evidence makes no legal conclusion, compliance claim, approved requirement,
 ## Reliability and operations evidence (fictional SES-004)
 
 Simulated evidence suggests criticality varies by outcome and period; infrastructure health may not represent consumer outcomes; and ownership uncertainty may concentrate at domain, platform, partner, consumer, and access boundaries. Telemetry existence, reliability performance, incident frequency, service commitments, and implemented operational controls remain unknown. No target, operating model, or observability architecture is approved.
+
+## SES-005 observed simulated evidence
+
+- **Supported simulated observations:** Commerce cases emphasize partner/date and tenant-treatment dependencies; Loyalty cases emphasize semantic interpretation and asynchronous internal adoption. Both report missing context, boundary coordination, support, compatibility, and completion concerns (STMT-118 through STMT-145).
+- **Challenged interpretations:** Shared concerns do not establish one workflow; Platform coordination does not transfer domain semantic authority; producer deployment does not control consumer adoption; existing variation is not automatically necessary (STMT-113 through STMT-116, STMT-128, STMT-136, STMT-139).
+- **Unknown facts:** Workflow prevalence, consumer inventory, partner readiness, delay attribution, authority, handoff acceptance, adoption state, compatibility outcomes, completion definitions, incidents, and source-backed necessary versus accidental variation.
+
+No workflow, requirement, ownership model, or architecture is approved.

@@ -2,6 +2,10 @@
 
 ## Purpose and structure
 
+## SES-005 typed domain records
+
+SES-005 adds workflow (`DWF`), dependency (`DEP`), handoff (`HOF`), and adoption-need (`ADN`) registers under [`docs/discovery/domains/`](../discovery/domains/README.md). Derive each record from stakeholder statements, preserve controlling party and authority uncertainty, keep shared concern separate from identical process, and propagate evidence without changing non-terminal status. The detailed procedure is in [chapter 07](07-domain-workflow-discovery.md).
+
 The [discovery index](../discovery/README.md) defines evidence types and traceability. Reconstruct the foundation by reviewing the [fictional company profile](../discovery/01-company-profile.md), [stakeholder map](../discovery/02-stakeholder-map.md), [engagement plan](../discovery/03-discovery-plan.md), [assumption and open-question registers](../discovery/04-assumptions-and-open-questions.md), and [glossary](../discovery/05-glossary.md). Project-level uncertainty is maintained in the [risk register](../project-management/risk-register.md); consequential choices follow [decision governance](../architecture/decisions/README.md).
 
 The company profile bounds the fictional scenario, the stakeholder map defines planned contributors and tensions, the plan sequences evidence collection, the registers preserve uncertainty, and the glossary prevents terms from silently acquiring implementation meaning.

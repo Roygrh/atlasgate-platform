@@ -10,3 +10,12 @@ All hypotheses derive from fictional simulated discovery evidence and remain una
 | HYP-004 | Across eligible journeys, a voluntary shared path will be chosen when it removes repeated work and clarifies ownership without adding a central queue. | STMT-041, STMT-042, STMT-046 | Eligibility, authority, baselines, and alternatives are unknown; adoption is not value. | Eligible journeys choose the path and show better completion, rework, or support outcomes than comparable alternatives. | Define eligibility and compare voluntarily chosen paths with local alternatives; do not mandate migration. | Usage rises without outcome improvement, eligible teams bypass it, or selection is driven only by mandate. | Daniel Okafor | Proposed |
 
 SES-004 adds limiting evidence to HYP-002 and HYP-003: infrastructure success may miss semantic or partner-visible failure, external waiting requires separation, and candidate telemetry is not demonstrated available (STMT-080, STMT-088, STMT-091, STMT-104). Every hypothesis remains unsupported.
+
+## SES-005 evidence
+
+- **HYP-001:** Supporting evidence adds recurring missing context and hidden handoff waiting (STMT-121, STMT-145); limiting evidence adds domain-specific sequencing and central-queue adoption risk (STMT-113, STMT-146).
+- **HYP-002:** Supporting evidence adds direct-chat interpretation work and distinct producer/consumer duties (STMT-131, STMT-134, STMT-136); limiting evidence adds unverified inventory and asynchronous completion (STMT-137 through STMT-144).
+- **HYP-003:** Supporting context adds partner readiness and support-boundary needs; limiting evidence confirms that producer activity cannot control partner readiness and mixed waiting must be separated (STMT-118 through STMT-124).
+- **HYP-004:** Supporting evidence adds candidate shared concerns; limiting evidence reinforces that common concern does not justify a common sequence or authority transfer (STMT-113, STMT-145, STMT-146).
+
+No new hypothesis is necessary. All hypotheses remain `Proposed` or `Testing planned`, never supported.

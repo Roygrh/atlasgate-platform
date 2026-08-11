@@ -26,4 +26,5 @@ Every iteration must update the relevant reconstruction chapter and the iteratio
 - Fictional SES-002 product-discovery simulation, segments, journeys, hypotheses, findings, and synthesis: complete for `I01-P02`; all remain preliminary or under validation.
 - Fictional SES-003 security/compliance simulation and preliminary security records: complete for `I01-P03`; no legal applicability, requirement, control objective, control, exception, or architecture is approved.
 - Fictional SES-004 reliability/operations simulation and target-free registers: complete for `I01-P04`; no target, commitment, tooling, or observability is approved or implemented. See [06](06-reliability-and-operations-discovery.md).
+- Fictional SES-005 domain workflow comparison and typed registers: complete for `I01-P05`; no universal workflow, requirement, ownership model, or implementation is approved. See [07](07-domain-workflow-discovery.md).
 - Application, build, runtime, and deployment reconstruction: deferred; none has been implemented.

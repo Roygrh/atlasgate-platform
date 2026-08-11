@@ -1,5 +1,9 @@
 # Ownership and Support Boundary Register
 
+## SES-005 refinement
+
+Platform coordination can appear to transfer ownership but does not grant Commerce or Loyalty semantic authority, consumer-schedule authority, or consequence acceptance (STMT-114 through STMT-116, STMT-125, STMT-133, STMT-140, STMT-141). Producer, consumer, partner, reviewer, support, and closure responsibilities require source-backed mapping; no RACI is created.
+
 This is not a finalized RACI or operating model. Every claim requires source validation.
 
 | ID | Responsibility or boundary | Involved actors | Current ownership claim | Conflicting claim or gap | Escalation question | Supporting evidence | Validation source | Owner | Status |

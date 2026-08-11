@@ -53,3 +53,13 @@ These definitions support discovery and do not imply that the described behavior
 | False positive | A signal that indicates actionable impact when the defined condition is absent. |
 | Alert fatigue | Reduced responder effectiveness caused by excessive or low-value signals. |
 | Recovery evidence | Purpose-appropriate information showing mitigation and verified restoration events. |
+| Domain workflow | A scenario-specific discovery record of how domain and other actors currently attempt an outcome; it is not a target process. |
+| Workflow step | A bounded activity within a workflow, without implying a global sequence or gate. |
+| Dependency | Readiness, information, action, or decision controlled by one party that affects another actor or workflow. |
+| Handoff | Movement of information, coordination, or responsibility; authority transfers only when evidence establishes it. |
+| Producer responsibility | Responsibility for producer-side domain behavior, change context, compatibility reasoning, and operation within a stated boundary. |
+| Consumer responsibility | Responsibility for assessing impact, testing, scheduling, and using a change within the consumer's product boundary. |
+| Semantic ownership | Authority and responsibility for authoritative domain meaning; platform carriage or coordination does not establish it. |
+| Completion criteria | Evidence and conditions used to determine whether a scenario is complete, potentially beyond deployment. |
+| Domain-specific variation | A workflow difference plausibly caused by domain meaning, actors, consequence, or business context. |
+| Accidental inconsistency | A potentially avoidable difference not yet shown necessary by business, risk, authority, or consumer context. |

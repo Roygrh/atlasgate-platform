@@ -99,6 +99,7 @@ This ledger is the chronological, factual record of AtlasGate delivery. Every it
 ## I01-P04 - Reliability and operations discovery
 
 - **Date:** 2026-08-09
+- **Verified commit:** `edb36985b5e8b9c305f88193555284b230f5b3a0` - `docs(i01-p04): complete reliability and operations discovery`.
 - **Objective:** Conduct fictional SES-004 and derive target-free critical journeys, incident scenarios, ownership/support boundaries, telemetry candidates, SLI candidates, findings, risks, and propagated operational context.
 - **Starting state:** `main` was clean and aligned with `origin/main` at verified commit `73ab899`; SES-001 through SES-003 were committed; sequence maxima were STMT-075, FND-020, ASM-013, OQ-020, and RSK-019; the private plan was ignored, untracked, and read silently.
 - **Files created and modified:** Created three SES-004 artifacts, the reliability entry point and five registers, the reliability synthesis, and Build from Zero chapter 06. Modified discovery evidence, findings, context, governance, risk, reconstruction, history, and portfolio documentation shown by final Git validation.
@@ -109,3 +110,17 @@ This ledger is the chronological, factual record of AtlasGate delivery. Every it
 - **Known limitations:** All content is fictional. No incident, support, telemetry, traffic, ownership, access, change, partner, contract, recovery, or target-authority source was inspected. No reliability level, metric availability, commitment, architecture, or behavior is validated.
 - **Commit / pull request:** Not created; nothing was staged or pushed.
 - **Next expected prompt:** Conduct fictional domain workflow discovery comparing commerce and loyalty delivery constraints, dependencies, ownership, and adoption needs without approving requirements.
+
+## I01-P05 - Domain workflow discovery
+
+- **Date:** 2026-08-09
+- **Objective:** Conduct fictional SES-005 and compare Commerce and Loyalty workflows, dependencies, handoffs, ownership, adoption needs, semantic differences, completion ambiguity, and evidence gaps without standardizing a target process.
+- **Starting state:** `main` was clean and aligned with `origin/main` at verified commit `edb3698`; SES-001 through SES-004 were committed; maxima were STMT-111, FND-027, ASM-013, OQ-023, and RSK-022; the private plan was ignored, untracked, unchanged, and read silently.
+- **Files created and modified:** Created three SES-005 artifacts; the domain entry point and workflow, dependency, handoff/ownership, adoption-need, and comparison registers; the domain synthesis; and Build from Zero chapter 07. Modified evidence, findings, journeys, segments, hypotheses, outcomes, uncertainties, glossary, security/reliability cross-links, company/stakeholder context, risk, plan/indexes, Build from Zero, portfolio, and this ledger as listed by final Git validation.
+- **Simulation method:** Simulated 38 meaningful exchanges among six fictional participants across four distinct scenarios. Preserved seven tensions, two explicitly unverified estimates, domain and consumer responsibility boundaries, apparent versus actual ownership transfer, locally efficient workarounds with shifted cost/risk, and owner-assigned evidence requests. Derived stable non-terminal records without analytical IDs in dialogue.
+- **Evidence produced:** STMT-112 through STMT-149; FND-028 through FND-034; four workflows; ten dependencies; eight handoffs; seven adoption needs; shared/domain-specific analysis; two assumptions; three questions; three risks; and propagated discovery/reconstruction/portfolio context.
+- **Commands executed:** Repository/guidance inspection; Git status, branch, log, remote, local/remote revision and alignment checks; complete documentation inventory and reads; private-plan silent read and ignore/tracking checks; scoped documentation patches; and final Markdown, ID, reference, participant, status, scope, Git, and private-plan validation.
+- **Validation results:** Final command observations and automated documentation checks are reported in the handoff. Documentation-only scope means no application test suite applies.
+- **Known limitations:** Everything is fictional and source-limited. No workflow, ticket, consumer, partner, review, authority, change, release, support, incident, telemetry, contract, adoption, compatibility, or closure source was inspected. Estimates, prevalence, causality, authority, shared concerns, variation classification, and completion remain unverified.
+- **Commit / pull request:** Not created; nothing was staged or pushed.
+- **Next expected prompt:** I01-P06 - External Consumer Discovery, focused on external partner onboarding, documentation, credentials, compatibility, support, quotas/traffic expectations, and consumer experience without approving requirements or selecting mechanisms.
