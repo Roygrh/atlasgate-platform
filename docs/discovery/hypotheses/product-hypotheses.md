@@ -19,3 +19,6 @@ SES-004 adds limiting evidence to HYP-002 and HYP-003: infrastructure success ma
 - **HYP-004:** Supporting evidence adds candidate shared concerns; limiting evidence reinforces that common concern does not justify a common sequence or authority transfer (STMT-113, STMT-145, STMT-146).
 
 No new hypothesis is necessary. All hypotheses remain `Proposed` or `Testing planned`, never supported.
+
+## SES-007 architecture alignment (fictional simulated evidence)
+HYP-001 and HYP-004 remain exposed to central-queue cost (STMT-151, STMT-160). HYP-002 must keep producer publication distinct from consumer adoption (STMT-152). HYP-003 and partner-facing architecture choices await SES-006 (STMT-161). No hypothesis gains supported status.

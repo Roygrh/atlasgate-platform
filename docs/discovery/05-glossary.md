@@ -63,3 +63,21 @@ These definitions support discovery and do not imply that the described behavior
 | Completion criteria | Evidence and conditions used to determine whether a scenario is complete, potentially beyond deployment. |
 | Domain-specific variation | A workflow difference plausibly caused by domain meaning, actors, consequence, or business context. |
 | Accidental inconsistency | A potentially avoidable difference not yet shown necessary by business, risk, authority, or consumer context. |
+
+## SES-007 architecture terms (implementation-neutral)
+
+| Term | Meaning |
+| --- | --- |
+| Architecture driver | Evidence-linked concern used to assess possible architecture choices. |
+| Candidate boundary | Proposed separation of responsibility or failure behavior requiring validation. |
+| Architecture alternative | Plausible approach compared against the same drivers. |
+| Architecture trade-off | Competing benefits, costs, or risks of an alternative. |
+| Failure boundary | Scope within which a failure and its consequences may be contained or propagated. |
+| Management/control plane | Possible responsibility area for governance, change, and administrative decisions. |
+| Runtime/data plane | Possible responsibility area for processing active requests. |
+| Policy definition | Authorized expression of intended policy. |
+| Policy enforcement | Application of policy to an action at a relevant boundary. |
+| Publication | Deliberate declaration that a reviewed change is available or active, if such a lifecycle is chosen. |
+| Immutable revision | Candidate durable version whose historical content cannot be silently rewritten. |
+| ADR candidate | Consequential question proposed for a future architecture decision record. |
+| Architecture baseline | Explicitly reviewed and authorized set of architecture decisions and views. |

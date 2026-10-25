@@ -37,4 +37,7 @@ SES-004 additionally uses immutable `CRJ-NNN`, `INC-NNN`, `OWN-NNN`, `TEL-NNN`, 
 
 ## Current limitation
 
-This chapter reconstructs the discovery foundation. SES-001 through SES-004 now provide fictional simulated sessions and preliminary synthesis; see [06](06-reliability-and-operations-discovery.md). There are no validated findings, segments, journeys, assets, or boundaries; no supported hypotheses; no confirmed obligations; no assessed threats; no approved exceptions, requirements, targets, commitments, or controls; no final architecture baseline; and no implemented capabilities.
+This chapter reconstructs the discovery foundation. SES-001 through SES-005 and SES-007 now provide fictional simulated sessions and preliminary synthesis; see [08](08-architecture-alignment-discovery.md). SES-006 external-consumer discovery and I01-P08 synthesis remain incomplete. There are no validated findings, segments, journeys, assets, drivers, or boundaries; no supported hypotheses; no confirmed obligations; no assessed threats; no approved exceptions, requirements, targets, commitments, or controls; no final architecture baseline; and no implemented capabilities.
+
+## SES-007 architecture discovery records
+[Chapter 08](08-architecture-alignment-discovery.md) explains how to derive `DRV-NNN`, `CBD-NNN`, `ALT-NNN`, `ADRC-NNN`, and `DECQ-NNN` from fictional simulated statements and prior discovery. Keep these candidate registers in [discovery architecture](../discovery/architecture/README.md), separate from approved [architecture decisions](../architecture/decisions/README.md). SES-006 external-consumer evidence remains missing.

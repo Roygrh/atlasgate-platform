@@ -17,3 +17,6 @@ These are candidate evidence needs, not proof that evidence exists. Audit or dec
 | EVR-007 | Partner organization, technical contact, service actor, environment, and pause-reason metadata | Validate identity and external waiting in onboarding | Partner coordination and access records | Partner lead, domain, Security | Onboarding and material contact/service changes | Minimize personal contact detail and avoid payload collection | Authoritative organization link and change history | STMT-049, STMT-052, STMT-053, STMT-074 | Review sanitized partner samples | Sofia Novak | Collection planned |
 
 SES-004 reinforces that EVR-005 and EVR-006 must support safe diagnosis without treating telemetry as durable audit evidence by default (STMT-104, STMT-107 through STMT-109). No access or retention rule is approved.
+
+## SES-007 architecture alignment (fictional simulated evidence)
+Purpose-scoped change, approval, activation, expiry, and closure traceability may be needed (STMT-164, STMT-169). Immutable revision is a candidate concept; minimum content, integrity, access, and retention authority remain unknown. See [driver analysis](../architecture/architecture-drivers.md).

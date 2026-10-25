@@ -1,6 +1,6 @@
 # Preliminary Finding Register
 
-These findings derive from the fictional SES-001 through SES-004 simulations. None is an approved requirement or validated enterprise conclusion.
+These findings derive from fictional simulated discovery sessions through SES-007; SES-006 remains incomplete. None is an approved requirement or validated enterprise conclusion.
 
 | ID | Preliminary finding | Supporting statements | Conflicting or limiting evidence | Confidence | Validation needed | Owner | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,3 +38,9 @@ These findings derive from the fictional SES-001 through SES-004 simulations. No
 | FND-032 | Handoffs can lose context, hide waiting, or make coordination appear to transfer authority. | STMT-116, STMT-121, STMT-133, STMT-140 | No ticket or handoff record was inspected. | Medium-low | Sample returns, waiting, and accepted/rejected handoffs. | Jordan Lee | Under validation |
 | FND-033 | Some variation is plausibly necessary, while copied treatment and uneven context are accidental-inconsistency candidates. | STMT-126, STMT-128, STMT-129, STMT-132, STMT-142 | Necessity and prevalence are unverified. | Low | Compare causes, authority, consequence, and repeated fields. | Aisha Bello | Preliminary |
 | FND-034 | Completion criteria vary by scenario and can extend beyond deployment into readiness, adoption, verification, retirement, or accepted residual use. | STMT-122, STMT-127, STMT-139, STMT-144 | No authoritative completion or consequence source. | Medium-low | Compare completed and disputed changes with owners. | Marcus Reed | Under validation |
+| FND-035 | Management and request-time responsibilities may need different availability boundaries. | STMT-157–159 | Safe stale behavior and outage consequences are untested. | Low | Model management outage against selected journeys and policy limits. | Marcus Reed | Preliminary |
+| FND-036 | Shared metadata must not silently transfer domain semantic authority. | STMT-153, STMT-156, STMT-162 | No authoritative metadata or ownership source. | Medium-low | Inspect edit rights, support cases, and domain charter. | Priya Raman | Under validation |
+| FND-037 | Shared governance does not alone justify distributed control services or a central queue. | STMT-151, STMT-165, STMT-171–172 | No capacity, cost, queue, or failure comparison. | Medium-low | Compare three alternatives using sampled workflows and costs. | Priya Raman | Preliminary |
+| FND-038 | Change traceability may justify deliberate publication and durable revision concepts, with scope limited by evidence purpose. | STMT-160, STMT-164, STMT-169 | Authority and minimum evidence unknown. | Low | Review change, approval, activation, and audit-purpose records. | Elena García | Preliminary |
+| FND-039 | Policy definition, risk acceptance, and request-time enforcement may need distinct responsibilities. | STMT-166–168 | No policy source, exception case, or failure test. | Low | Compare definition/evaluation/enforcement and failure modes. | Elena García | Under validation |
+| FND-040 | Partner-facing architecture choices must await direct external-consumer evidence. | STMT-161, STMT-175 | SES-006 incomplete; internal accounts may misrepresent partner needs. | Medium | Complete SES-006 before exposure/onboarding decisions. | Daniel Okafor | Under validation |

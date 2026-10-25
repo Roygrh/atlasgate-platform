@@ -72,7 +72,7 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 7. Architecture alignment workshop
 
-- **Status:** Planned and incomplete.
+- **Status:** Fictionally simulated and recorded as [SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md); source validation and architecture baseline remain incomplete.
 
 - **Purpose:** Translate validated discovery concerns into decision drivers and identify decisions needing assessment.
 - **Participants:** Platform architect, security architect, SRE lead, product manager, platform engineering, and domain representatives.
@@ -80,6 +80,8 @@ All activities below are fictional simulations involving fictional Northstar Dig
 - **Expected outputs:** Decision candidates, driver-to-evidence links, option-research tasks, risks, and validation plans.
 - **Preparation:** Bring synthesized findings, proposed requirements only if clearly labeled, risk records, and decision-governance rules.
 - **Exit criteria:** No unassessed direction becomes final; ADR candidates have owners and evidence; diagrams are deferred until they communicate assessed architecture.
+
+- **Recorded result:** Candidate drivers, boundaries, three alternatives, future ADR topics, and deferred questions are traceable from SES-007. SES-006 external-consumer discovery remains incomplete, so dependent choices remain open.
 
 ## 8. Discovery synthesis and baseline review
 

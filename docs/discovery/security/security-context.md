@@ -30,3 +30,6 @@ All records derive from fictional simulated evidence. Sensitivity and ownership 
 | BND-006 | Operational telemetry to durable review evidence | Diagnostic producers/consumers and decision/audit consumers | Purpose, context, integrity, minimization, and retention differ | STMT-061, STMT-070, STMT-072 | Evidence rules and sources not inspected | Henry Walsh | Under validation |
 
 SES-004 adds simulated support for BND-003 and BND-006: urgency does not displace safe-access lifecycle questions, and diagnostic telemetry does not automatically become durable evidence (STMT-104, STMT-107 through STMT-109). Statuses remain non-terminal.
+
+## SES-007 architecture alignment (fictional simulated evidence)
+Policy definition, evaluation, risk acceptance, and request-time enforcement are [candidate distinct responsibilities](../architecture/candidate-boundaries.md) (STMT-166–168). No enforcement location, policy control, or exception authority is selected. Safe behavior under management outage needs validation.

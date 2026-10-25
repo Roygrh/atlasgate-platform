@@ -19,3 +19,6 @@ Authors identify decision owners and reviewers appropriate to the affected busin
 Each ADR links, where applicable, to supporting findings and approved requirements, affected risk identifiers, validation tests or experiments, implementation changes, operational evidence, and superseded records. Missing links must be marked `Not yet available` with an explanation rather than invented. Implementation does not itself prove that a decision was accepted or successful.
 
 Use the [ADR template](adr-template.md). No technology or architecture ADR has been created in this foundation iteration.
+
+## Discovery candidates
+[SES-007 future ADR candidates](../../discovery/architecture/adr-candidates.md) are discovery questions, not ADRs or accepted decisions. Apply the lifecycle above only after evidence and authorized review; no architecture baseline exists.

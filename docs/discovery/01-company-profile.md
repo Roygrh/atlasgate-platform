@@ -93,3 +93,6 @@ Simulated evidence suggests criticality varies by outcome and period; infrastruc
 - **Unknown facts:** Workflow prevalence, consumer inventory, partner readiness, delay attribution, authority, handoff acceptance, adoption state, compatibility outcomes, completion definitions, incidents, and source-backed necessary versus accidental variation.
 
 No workflow, requirement, ownership model, or architecture is approved.
+
+## SES-007 observed simulated evidence
+The fictional architecture workshop surfaced possible distinctions between shared platform coordination and domain semantics, management and request processing, policy authorship and enforcement, and operational signal production and consequence interpretation (STMT-153, STMT-157, STMT-166, STMT-170). These are participant concerns, not Northstar current-state or target-architecture facts. External-consumer evidence and architecture approval authority remain unresolved. See the [session record](sessions/SES-007-architecture-alignment-discovery/02-session-record.md).

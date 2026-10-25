@@ -12,3 +12,6 @@ This fictional simulated comparison does not recommend a universal workflow.
 | Loyalty-specific variation | Asynchronous migration closure | Not demonstrated in same form | STMT-137, STMT-139 through STMT-144 | Adoption can outlast deployment | Multiple internal calendars and residual use | Forced synchronized release | Old use remains invisible | Transition records |
 | Uncertain whether common | Completion criteria | STMT-122, STMT-123 | STMT-139, STMT-144 | Deployment may be insufficient | Partner readiness versus consumer adoption | One definition masks consequence | No definition enables premature closure | Compare completed changes |
 | Accidental inconsistency candidate | Missing context and opaque handoffs | STMT-121, STMT-126 | STMT-133, STMT-134 | Both report lost context/workarounds | Causes and frequency unknown | Uniform intake adds friction | Rework and hidden support persist | Reason-code samples |
+
+## SES-007 architecture alignment (fictional simulated evidence)
+Shared context and publication visibility remain candidate platform concerns; Commerce and Loyalty semantic interpretation stays with domain owners (STMT-153, STMT-156, STMT-162). A common responsibility boundary does not imply one workflow or an approved module structure. See [candidate boundaries](../architecture/candidate-boundaries.md).

@@ -57,3 +57,14 @@ These registers are deliberately separate. An assumption is a provisional propos
 | --- | --- | --- | --- | --- | --- |
 | ASM-014 | Commerce and Loyalty have some reusable evidence concerns even where sequence and authority differ. | STMT-113, STMT-145 | Common investment may add no value or impose friction. | Priya Raman | Validation planned |
 | ASM-015 | Current consumer/adoption records are incomplete enough to obscure change closure. | STMT-137 through STMT-144 | Discovery may overstate hidden adoption and closure problems. | Lucas Pereira | Validation planned |
+
+## SES-007 architecture questions
+
+| ID | Question | Evidence gap | Owner | Decision impact | Status |
+| --- | --- | --- | --- | --- | --- |
+| OQ-027 | What request-time functions must continue through management outage, and what stale active state is safe? | No tested outage, active revision, or policy limit (STMT-158–159, STMT-167). | Marcus Reed | Control/runtime and failure boundaries | Validation planned |
+| OQ-028 | Who authors shared metadata versus Commerce and Loyalty semantics, and who resolves conflicts? | No metadata edit or authority source (STMT-153, STMT-162). | Priya Raman | Domain/platform boundary | Validation planned |
+| OQ-029 | Which changes require publication, activation, immutable revision, policy evaluation/enforcement separation, and purpose-bound traceability? | No change, exception, evidence-purpose, or authority sample (STMT-160, STMT-164, STMT-166–169). | Elena García | Change and security boundaries | Validation planned |
+| OQ-030 | Which centralized, modular, or distributed option is justified by failure, coupling, capacity, cost, and owner evidence? | No comparative source data (STMT-165, STMT-171–173). | Priya Raman | Future ADR assessment | Validation planned |
+| OQ-031 | Who authorizes architecture decisions, activation, and acceptance of cross-boundary consequence? | No governance charter (STMT-174–175). | Daniel Okafor | Baseline and operating authority | Validation planned |
+| OQ-032 | Which partner-facing architecture needs follow direct external-consumer evidence? | SES-006 incomplete (STMT-161). | Daniel Okafor | Exposure, onboarding, notice, compatibility | Open |

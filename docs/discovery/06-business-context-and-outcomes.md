@@ -52,3 +52,6 @@ OUT-004 gains target-free evidence that correct owner identification, acknowledg
 ## SES-005 outcome evidence
 
 OUT-001 gains domain-specific stage and completion distinctions plus an unverified mixed-delay estimate (STMT-118 through STMT-124, STMT-139, STMT-144). OUT-002 gains evidence that adoption depends on producer/consumer responsibility, semantic clarity, visible migration state, and avoidance of a central queue (STMT-136 through STMT-146). OUT-003 gains flow-specific review and authority context without resolving SES-003 obligations (STMT-124 through STMT-130). OUT-004 gains apparent-transfer and closure-boundary evidence (STMT-116, STMT-127, STMT-140, STMT-147). No new outcome, baseline, or target is created.
+
+## SES-007 architecture alignment (fictional simulated evidence)
+Architecture option criteria should trace to journey outcome, authority, security consequence, failure behavior, operating cost, and reversibility (STMT-150). Candidate runtime continuity and publication benefits remain unmeasured (STMT-158–160). No business outcome, target, or architecture choice is approved; see [architecture discovery](architecture/README.md).

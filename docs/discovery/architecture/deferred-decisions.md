@@ -1,0 +1,12 @@
+# Architecture Questions and Deferred Decisions
+
+Fictional simulated discovery questions only. Statuses used here are `Open` and `Evidence gathering`; no answer is approved.
+
+| ID | Question | Why deferred | Missing evidence | Dependency | Decision impact | Owner | Expected future stage | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DECQ-001 | What must request processing retain when management is unavailable? | Safe stale behavior and consequence unknown. | Outage cases, active-state history, policy limits. | [CBD-002](candidate-boundaries.md), [SES-007 §2](../sessions/SES-007-architecture-alignment-discovery/01-simulated-transcript.md#2-commerce-launch-and-change) | Failure boundary and configuration ADR. | Marcus Reed | Architecture Baseline assessment | Open |
+| DECQ-002 | Where should platform metadata and domain semantics be authored and corrected? | Authority and edits not sampled. | Domain charters, metadata changes, consumer reports. | [CBD-001](candidate-boundaries.md), SES-007 §3 | Ownership model. | Priya Raman | Discovery synthesis then ADR assessment | Evidence gathering |
+| DECQ-003 | Which changes require publication, durable revision, audit history, and explicit activation? | Purpose, authority, cost, and minimum record unknown. | Change/exception cases and evidence-source rules. | [CBD-004](candidate-boundaries.md), SES-007 §4 | Change lifecycle and traceability. | Elena García | Architecture Baseline assessment | Open |
+| DECQ-004 | Which partner-facing exposure, onboarding, documentation, compatibility, and notice choices are warranted? | **SES-006 External Consumer Discovery is incomplete.** Internal descriptions cannot settle partner need. | Direct external-consumer account and records. | [DRV-006](architecture-drivers.md), SES-007 §2 | Boundary, publication, metadata, and experience choices. | Daniel Okafor | After SES-006 and synthesis | Open |
+| DECQ-005 | Who may approve architecture, exceptions, activation, and operational consequence? | No authority charter reviewed. | Sponsor/governance source and affected owner review. | [CBD-006](candidate-boundaries.md), SES-007 §4–5 | ADR and operating authority. | Priya Raman | Discovery synthesis | Open |
+| DECQ-006 | Does any control-plane concern justify independent distribution? | No capacity, isolation, or cost proof. | Workload, incidents, team capacity, option comparison. | [ALT-001–003](architecture-alternatives.md), SES-007 §5 | Control-plane style ADR. | Priya Raman | Architecture Baseline assessment | Open |
