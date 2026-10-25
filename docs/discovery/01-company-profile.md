@@ -96,3 +96,7 @@ No workflow, requirement, ownership model, or architecture is approved.
 
 ## SES-007 observed simulated evidence
 The fictional architecture workshop surfaced possible distinctions between shared platform coordination and domain semantics, management and request processing, policy authorship and enforcement, and operational signal production and consequence interpretation (STMT-153, STMT-157, STMT-166, STMT-170). These are participant concerns, not Northstar current-state or target-architecture facts. External-consumer evidence and architecture approval authority remain unresolved. See the [session record](sessions/SES-007-architecture-alignment-discovery/02-session-record.md).
+
+## SES-006 fictional external-consumer context
+
+Rachel Kim and Meridian Retail Partners are explicitly fictional. Their simulated direct-consumer account supports the concern that partner readiness, Commerce semantics, accepted support routing, and consumer-observed recovery extend beyond provider status (STMT-178, STMT-184, STMT-186, STMT-206). It challenges internal interpretations that a central page, issued credential, sent notice, or deployed change is sufficient completion (STMT-178, STMT-196, STMT-199). Actual partner prevalence, agreements, traffic, incidents, authority, and outcomes remain unknown. No requirement or company operating claim is approved.

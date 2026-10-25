@@ -62,3 +62,7 @@ JRN-001 now has a launch-degradation scenario and hidden direct-chat support cos
 - **Additional case:** DWF-002 records a tenant-specific Commerce change separately; it is not promoted to a universal journey or mechanism (STMT-125 through STMT-130).
 
 Every journey remains `Preliminary` or `Under validation`; none is validated.
+
+## SES-006 external-consumer refinement
+
+JRN-001 and JRN-003 gain direct fictional partner evidence for API fit, usable documentation, prerequisites, successful test access, accepted support routing, and partner release readiness (STMT-176 through STMT-191). JRN-001's provider deployment is not partner launch completion (STMT-184). JRN-002 remains an internal-consumer journey; SES-006 adds an external parallel for semantic change, independent release scheduling, and residual-use closure (STMT-192 through STMT-199), not proof that all consumers follow one sequence. All journeys remain non-terminal.

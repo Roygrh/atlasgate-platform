@@ -1,0 +1,11 @@
+# External Consumer Needs
+
+Fictional, simulated SES-006 analysis. `Preliminary` and `Under validation` are non-terminal; no record is `Supported` or an approved requirement.
+
+| ID | Candidate need | SES-006 evidence | Uncertainty / preference boundary | Validation needed | Owner | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| ECN-001 | Determine API use-case fit with domain meaning and human clarification when needed. | [Exchanges 1-5](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#1-first-time-partner-onboarding) | One partner; human help is preference, not contract. | Observe discovery tasks across partners and domain answers. | Daniel Okafor | Under validation |
+| ECN-002 | Establish successful authorized test use beyond credential issuance, with clear prerequisites and ownership. | [Onboarding exchanges 6-10](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#1-first-time-partner-onboarding); [access exchanges 11-18](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#2-credential-and-access-problem) | Failure causes and stage prevalence unknown. | Reconstruct sanitized access cases and intended calls. | Elena García | Preliminary |
+| ECN-003 | Reach production with verified partner business checks and a known support route. | [Exchanges 7-10](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#1-first-time-partner-onboarding) | Readiness and completion authority unknown. | Compare release and first-use records. | Sofia Novak | Under validation |
+| ECN-004 | Understand changes and independently schedule validation and migration. | [Exchanges 19-27](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#3-breaking-or-semantic-change) | Notice preference may differ from contract. | Review agreements, notices, and partner release decisions. | Aisha Bello | Preliminary |
+| ECN-005 | Obtain actionable incident context and verify consumer-visible recovery. | [Exchanges 28-35](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md#4-traffic-and-support-incident) | No commitment or telemetry coverage established. | Compare support and incident timelines with partner symptoms. | Jordan Lee | Preliminary |

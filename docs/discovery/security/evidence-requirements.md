@@ -20,3 +20,6 @@ SES-004 reinforces that EVR-005 and EVR-006 must support safe diagnosis without 
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Purpose-scoped change, approval, activation, expiry, and closure traceability may be needed (STMT-164, STMT-169). Immutable revision is a candidate concept; minimum content, integrity, access, and retention authority remain unknown. See [driver analysis](../architecture/architecture-drivers.md).
+## SES-006 external evidence refinement
+
+For a failed call or incident, the consumer proposed time window, environment, request/correlation reference where available, symptom, and sanitized example (STMT-185, STMT-205). Validate minimum fields, provenance, access, and retention against purpose and authority; do not request credentials or full payloads by default. Documentation-task, agreement, notice, partner-release, and closure records are requested in the [session record](../sessions/SES-006-external-consumer-discovery/02-session-record.md). No evidence requirement is approved.

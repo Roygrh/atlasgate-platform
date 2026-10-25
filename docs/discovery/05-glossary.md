@@ -81,3 +81,17 @@ These definitions support discovery and do not imply that the described behavior
 | Immutable revision | Candidate durable version whose historical content cannot be silently rewritten. |
 | ADR candidate | Consequential question proposed for a future architecture decision record. |
 | Architecture baseline | Explicitly reviewed and authorized set of architecture decisions and views. |
+
+## SES-006 external-consumer terms (implementation-neutral)
+
+| Term | Meaning |
+| --- | --- |
+| External API consumer | An organization or actor outside the provider that assesses, integrates, tests, releases, and operates API use within its own boundary. |
+| Onboarding dependency | Information, access, decision, test, or handoff that affects progression toward a consumer's intended use. |
+| Consumer readiness | The consumer's evidence-based ability and decision to use the intended integration in its own release and support context. |
+| Documentation usability | Whether intended readers can perform a task and interpret behavior correctly, distinct from document availability. |
+| Compatibility expectation | A consumer's stated need to assess continued intended behavior across change; its contractual force and policy remain unverified. |
+| Change notice | Communication of a proposed or actual change to an audience, distinct from receipt, comprehension, testing, or adoption. |
+| Traffic expectation | Described or observed usage shape and symptom context, independent of a selected traffic-control mechanism. |
+| Support routing | The path by which a concern reaches an accepted coordinating or decision owner, without implying transfer of authority. |
+| External completion criteria | Evidence and authorized acceptance that a consumer can use, support, or close an integration or migration, potentially after provider deployment. |

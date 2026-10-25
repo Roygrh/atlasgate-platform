@@ -1,6 +1,6 @@
 # Architecture Alignment Discovery
 
-This synthesis derives from fictional simulated [SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md) and earlier SES-001–SES-005 evidence. It is preliminary discovery analysis, not a target architecture or Architecture Baseline. SES-006 external-consumer discovery is incomplete.
+This synthesis derives from fictional simulated [SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md) and earlier SES-001–SES-005 evidence. It is preliminary discovery analysis, not a target architecture or Architecture Baseline. SES-006 was recorded afterward and supplies one limited fictional consumer account.
 
 ## Drivers and candidate responsibility boundaries
 
@@ -12,7 +12,7 @@ The [alternatives](architecture/architecture-alternatives.md) compare a more cen
 
 ## Scenario implications
 
-- **Commerce partner launch/change:** Domain meaning, partner readiness, shared context, publication timing, and approval waiting may have separate owners. External notice and onboarding architecture await SES-006.
+- **Commerce partner launch/change:** Domain meaning, partner readiness, shared context, publication timing, and approval waiting may have separate owners. External notice and onboarding choices await source-backed validation after SES-006.
 - **Loyalty semantic change:** The producer's publication and each consumer's adoption are distinct. Domain semantic authority and shared metadata authorship need source-backed mapping.
 - **Urgent tenant policy/exception:** Definition, advice, risk acceptance, evaluation, activation, and enforcement may be different responsibilities. Traceability must be scoped to purpose and authority.
 - **Cross-boundary incident:** Request and configuration signals can be produced by Platform while domain or partner outcome interpretation remains elsewhere. Coordination does not automatically transfer consequence acceptance.
@@ -23,4 +23,8 @@ The workshop rejected the inference that asynchronous adoption requires distribu
 
 ## Evidence before Architecture Baseline
 
-Obtain representative inventory, dependency, approval and change records; configuration activation and outage behavior; domain metadata and consumer adoption samples; policy/exception authority and purpose-limited evidence; incident timelines, telemetry coverage, and actual consequence; capacity and operating-cost comparison; an architecture decision authority source; and direct SES-006 partner evidence. Then compare candidate directions with recorded criteria and conflicting evidence. I01-P08 Discovery Synthesis and Baseline Review remains planned and incomplete.
+Obtain representative inventory, dependency, approval and change records; configuration activation and outage behavior; domain metadata and consumer adoption samples; policy/exception authority and purpose-limited evidence; incident timelines, telemetry coverage, and actual consequence; capacity and operating-cost comparison; an architecture decision authority source; and further partner records beyond the single SES-006 account. Then compare candidate directions with recorded criteria and conflicting evidence. I01-P08 Discovery Synthesis and Baseline Review remains planned and incomplete.
+
+## SES-006 refinement after SES-007
+
+The [external-consumer synthesis](12-external-consumer-discovery.md) supports further analysis of domain semantic authority, independent consumer readiness, accepted support routing, notice, and consumer-outcome evidence. It challenges central documentation, publication, or Platform Support reachability as sufficient proxies for meaning, completion, or authority (STMT-178, STMT-184, STMT-186, STMT-199). It leaves control/runtime outage boundaries, policy enforcement, modular versus distributed style, traffic mechanisms, and decision authority unresolved. All affected [candidate registers](architecture/README.md) remain preliminary; Architecture Baseline decisions are future work.

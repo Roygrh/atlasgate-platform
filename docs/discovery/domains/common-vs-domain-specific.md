@@ -15,3 +15,6 @@ This fictional simulated comparison does not recommend a universal workflow.
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Shared context and publication visibility remain candidate platform concerns; Commerce and Loyalty semantic interpretation stays with domain owners (STMT-153, STMT-156, STMT-162). A common responsibility boundary does not imply one workflow or an approved module structure. See [candidate boundaries](../architecture/candidate-boundaries.md).
+## SES-006 external comparison
+
+The fictional partner account supports shared concerns around clear context, handoffs, and completion evidence but challenges a shared sequence or centrally authored domain meaning as sufficient (STMT-178, STMT-179, STMT-184, STMT-199). Commerce semantic ownership and Meridian's independent release decisions remain different responsibilities. Necessary variation and avoidable inconsistency still need source-backed comparison.

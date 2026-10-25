@@ -67,4 +67,16 @@ These registers are deliberately separate. An assumption is a provisional propos
 | OQ-029 | Which changes require publication, activation, immutable revision, policy evaluation/enforcement separation, and purpose-bound traceability? | No change, exception, evidence-purpose, or authority sample (STMT-160, STMT-164, STMT-166–169). | Elena García | Change and security boundaries | Validation planned |
 | OQ-030 | Which centralized, modular, or distributed option is justified by failure, coupling, capacity, cost, and owner evidence? | No comparative source data (STMT-165, STMT-171–173). | Priya Raman | Future ADR assessment | Validation planned |
 | OQ-031 | Who authorizes architecture decisions, activation, and acceptance of cross-boundary consequence? | No governance charter (STMT-174–175). | Daniel Okafor | Baseline and operating authority | Validation planned |
-| OQ-032 | Which partner-facing architecture needs follow direct external-consumer evidence? | SES-006 incomplete (STMT-161). | Daniel Okafor | Exposure, onboarding, notice, compatibility | Open |
+| OQ-032 | Which partner-facing architecture needs follow direct external-consumer evidence? | SES-006 provides one fictional account (STMT-207); records, contracts, other partners absent. | Daniel Okafor | Exposure, onboarding, notice, compatibility | Open |
+
+## SES-006 external-consumer questions
+
+| ID | Question | Evidence gap | Owner | Decision impact | Status |
+| --- | --- | --- | --- | --- | --- |
+| OQ-033 | Which discovery paths and documentation tasks let different partners confirm use-case fit and domain semantics? | One fictional account; no task or ownership records (STMT-176 through STMT-179). | Daniel Okafor | Partner experience and metadata authority | Validation planned |
+| OQ-034 | Which prerequisites, decision owners, and events separate credential issuance from successful intended test and production readiness? | No access case, environment, or agreement examined (STMT-180 through STMT-188). | Elena García | Access and onboarding proposals | Validation planned |
+| OQ-035 | Which semantic changes require notice, compatibility assessment, partner test opportunity, and residual-use closure under which authority? | No change sample or contract (STMT-192 through STMT-199). | Aisha Bello | Future change and compatibility baseline | Validation planned |
+| OQ-036 | What traffic shape, constraint symptoms, and safe signals should consumers and responders see before choosing any mechanism? | No forecast, traffic, or incident source (STMT-200, STMT-201, STMT-205). | Jordan Lee | Traffic and observability assessment | Validation planned |
+| OQ-037 | Who accepts support handoffs, communicates verified status, and confirms external recovery and migration closure? | No tickets, charter, communication, or closure evidence (STMT-185, STMT-189, STMT-203 through STMT-206). | Sofia Novak | Support boundaries and completion criteria | Validation planned |
+
+SES-006 gives OQ-032 one fictional direct consumer account (STMT-207) and challenges the sufficiency of central documentation and provider-only completion, but representative, contract, authority, and source evidence remain missing. OQ-032 stays Open; no assumption is validated or invalidated.

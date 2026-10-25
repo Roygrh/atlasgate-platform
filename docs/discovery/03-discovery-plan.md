@@ -1,6 +1,6 @@
 # Discovery Engagement Plan
 
-All activities below are fictional simulations involving fictional Northstar Digital Group participants. The executive kickoff, platform product discovery, and security/compliance discovery have been simulated and recorded for portfolio purposes; all later activities remain planned and incomplete.
+All activities below are fictional simulations involving fictional Northstar Digital Group participants. SES-001 through SES-007 have been simulated and recorded for portfolio purposes; only activity 8, Discovery Synthesis and Baseline Review, remains planned and incomplete in Business Discovery. P07 was executed before P06; identifiers retain their original numbers.
 
 ## 1. Executive kickoff
 
@@ -61,14 +61,16 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 6. External consumer interview
 
-- **Status:** Planned and incomplete.
+- **Status:** Fictionally simulated and recorded as [SES-006](sessions/SES-006-external-consumer-discovery/02-session-record.md) on 2026-10-25; source validation remains incomplete.
 
 - **Purpose:** Explore a fictional partner developer's integration, onboarding, change, and support experience.
-- **Participants:** Polaris Partner Developers representatives, external partner integration lead, product manager, and facilitator.
+- **Participants:** Daniel Okafor, Sofia Novak, Elena García, Aisha Bello, Jordan Lee, and Rachel Kim of fictional Meridian Retail Partners.
 - **Key questions:** How is access requested? What information is needed? Where does integration fail? How are changes and incidents communicated? What creates trust?
 - **Expected outputs:** Consumer statements, journey and pain-point hypotheses, support expectations, and unresolved provider-consumer differences.
 - **Preparation:** Define a safe fictional integration scenario and avoid assuming internal process knowledge.
 - **Exit criteria:** External perspective remains attributed, desired features remain unapproved, and follow-up questions are assigned.
+
+- **Recorded result:** A 36-exchange fictional direct-consumer account across onboarding, access failure, semantic change, and traffic/support incident; preliminary [external-consumer registers](external-consumers/README.md), owner-assigned evidence requests, and bounded SES-007 refinement. No mechanism, commitment, requirement, or architecture was approved.
 
 ## 7. Architecture alignment workshop
 
@@ -81,7 +83,7 @@ All activities below are fictional simulations involving fictional Northstar Dig
 - **Preparation:** Bring synthesized findings, proposed requirements only if clearly labeled, risk records, and decision-governance rules.
 - **Exit criteria:** No unassessed direction becomes final; ADR candidates have owners and evidence; diagrams are deferred until they communicate assessed architecture.
 
-- **Recorded result:** Candidate drivers, boundaries, three alternatives, future ADR topics, and deferred questions are traceable from SES-007. SES-006 external-consumer discovery remains incomplete, so dependent choices remain open.
+- **Recorded result:** Candidate drivers, boundaries, three alternatives, future ADR topics, and deferred questions are traceable from SES-007. SES-006 was recorded later and adds one direct fictional consumer account; dependent choices remain open for source validation and future Architecture Baseline review.
 
 ## 8. Discovery synthesis and baseline review
 

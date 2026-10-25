@@ -22,3 +22,6 @@ No new hypothesis is necessary. All hypotheses remain `Proposed` or `Testing pla
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 HYP-001 and HYP-004 remain exposed to central-queue cost (STMT-151, STMT-160). HYP-002 must keep producer publication distinct from consumer adoption (STMT-152). HYP-003 and partner-facing architecture choices await SES-006 (STMT-161). No hypothesis gains supported status.
+## SES-006 external hypothesis limits
+
+HYP-003 gains one direct fictional consumer account supporting usable examples, accepted access status, and human semantic clarification (STMT-176 through STMT-185); it is limited by independent partner waiting and unverified elapsed time (STMT-181, STMT-183). HYP-002 gains an external analogue for semantic impact and independent scheduling (STMT-192 through STMT-199). HYP-001/HYP-004 remain exposed to central content and queue risk. No new hypothesis is distinct enough to add, and none is Supported.

@@ -15,3 +15,6 @@ These records distinguish coordination from authority. They are not a RACI; none
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Management, publication, execution, and consumer adoption may cross different handoffs (STMT-152, STMT-157, STMT-160). Incident coordination does not transfer Commerce consequence acceptance (STMT-174). The [candidate boundary register](../architecture/candidate-boundaries.md) keeps authority and failure questions open.
+## SES-006 external handoff refinement
+
+The fictional access case supports examining accepted versus merely forwarded support handoffs (STMT-185, STMT-189), while Commerce semantics, Platform coordination, Security authority, partner readiness, and risk acceptance remain distinct (STMT-186, STMT-190, STMT-193, STMT-204). HOF-001 and HOF-008 gain a consumer perspective, not confirmed ownership. See [support analysis](../external-consumers/support-and-communication.md).

@@ -17,3 +17,6 @@ This is not a finalized RACI or operating model. Every claim requires source val
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 The [candidate boundaries](../architecture/candidate-boundaries.md) distinguish signal production, consequence interpretation, coordination, and risk acceptance (STMT-170, STMT-174). This does not finalize an operating model. Management outage and stale-state behavior remain open (STMT-158–159).
+## SES-006 external boundary refinement
+
+The fictional consumer needs an accepted case owner and interpretable updates, while Platform and partner coordination do not acquire Commerce meaning, access approval, production-change authority, or risk acceptance (STMT-185, STMT-186, STMT-189, STMT-202 through STMT-204). OWN-001/OWN-005/OWN-006 remain mapping subjects, not a final support model.

@@ -16,3 +16,4 @@ This directory is the entry point for repository documentation.
 - Testing strategy: planned.
 
 - [Architecture alignment discovery](discovery/11-architecture-alignment-discovery.md): fictional simulated SES-007, candidate architecture analysis, and explicit deferrals; no baseline or ADR.
+- [External consumer discovery](discovery/12-external-consumer-discovery.md): fictional simulated SES-006 direct consumer account and preliminary onboarding, change, traffic, and support analysis; no requirement or mechanism approved.

@@ -55,3 +55,6 @@ OUT-001 gains domain-specific stage and completion distinctions plus an unverifi
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Architecture option criteria should trace to journey outcome, authority, security consequence, failure behavior, operating cost, and reversibility (STMT-150). Candidate runtime continuity and publication benefits remain unmeasured (STMT-158–160). No business outcome, target, or architecture choice is approved; see [architecture discovery](architecture/README.md).
+## SES-006 external-consumer evidence
+
+The fictional direct consumer account supports investigating OUT-001 active versus partner waiting, OUT-002 readiness beyond provider release, OUT-003 safe access evidence, and OUT-004 accepted support routing (STMT-181, STMT-183 through STMT-189, STMT-198, STMT-204). It challenges document publication, credential issuance, and notice sent as outcome proxies (STMT-178, STMT-184, STMT-196). The two estimates are unverified; no baseline, numeric target, contract, outcome, or requirement is approved.

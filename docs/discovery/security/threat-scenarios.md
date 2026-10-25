@@ -13,3 +13,6 @@ These fictional scenarios are inputs for later analysis, not a completed threat 
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Candidate failure questions include stale or inconsistent policy after activation, direct runtime dependence on unavailable administration, and a central approval bottleneck (STMT-158, STMT-167–168). These are scenarios to assess against sanitized cases, not assessed threats or selected mitigations. See [deferred questions](../architecture/deferred-decisions.md).
+## SES-006 external scenario refinement
+
+THR-001/THR-005/THR-006 should be tested against borrowed access, unclear owner routing, and unnecessary diagnostic disclosure (STMT-185, STMT-188, STMT-205). These are plausible negative paths from one fictional account, not assessed incidents, selected controls, or evidence of prevalence.

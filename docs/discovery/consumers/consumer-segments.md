@@ -29,9 +29,9 @@ These segments derive from the fictional simulated [SES-002 transcript](../sessi
 - **Primary jobs:** Discover eligible APIs, gain access, test an integration, enter production, receive change notice, and obtain support.
 - **Current alternatives:** Business-contact introductions, emailed documents, partner-specific calls, and support routed through integration coordinators.
 - **Needs or pain points:** Clear eligibility, current documentation, individual access, environment status, actionable support, and audience-appropriate information.
-- **Evidence:** STMT-023, STMT-032, STMT-033, STMT-034.
+- **Evidence:** STMT-023, STMT-032, STMT-033, STMT-034; one fictional direct consumer account in STMT-176 through STMT-206.
 - **Important differences:** Partner type, procurement, identity evidence, location, contract context, and integration frequency vary.
-- **Validation needed:** Direct fictional partner interviews plus sampled onboarding and support records.
+- **Validation needed:** More fictional consumer accounts and representative comparisons; real onboarding, access, traffic, support, production, and contract records remain absent.
 - **Owner:** Sofia Novak
 - **Status:** Preliminary
 
@@ -65,7 +65,11 @@ Producers need consequence-aware mitigation and coordination without losing sema
 
 - **SEG-001 Domain API producer:** needs domain-specific completion context, dependency visibility, and lower-friction governance while retaining semantic authority (STMT-114, STMT-125, STMT-136, STMT-145, STMT-146).
 - **SEG-002 Internal API consumer:** owns impact assessment, testing, scheduling, and product use; needs semantic clarity and adoption/migration context without forced synchronization (STMT-131, STMT-136 through STMT-144).
-- **SEG-003 External partner developer:** owns partner-side implementation/readiness and depends on clear Commerce behavior and support context; direct partner evidence remains absent (STMT-118 through STMT-123).
+- **SEG-003 External partner developer:** owns partner-side implementation/readiness and depends on clear Commerce behavior and support context (STMT-118 through STMT-123); one fictional direct account now exists (STMT-176 through STMT-206), while representative and real source evidence remain absent.
 - **SEG-005 Platform operator and support team:** coordinates platform context and routing without inheriting Commerce or Loyalty semantics or consumer deadlines (STMT-116, STMT-133, STMT-141).
 
 No segment is validated.
+
+## SES-006 external-consumer refinement
+
+SEG-003 now has one direct fictional consumer account: Rachel distinguishes discovery from fit, documentation availability from usability, credential issuance from successful access, provider release from partner readiness, and traffic visibility from control choice (STMT-176 through STMT-184, STMT-200). SEG-005 gains evidence that reachable support coordinates but does not own Commerce meaning, access approval, or consequence (STMT-185, STMT-186, STMT-204). Other segments remain unchanged. Neither segment is validated; no partner prevalence or contract was examined.

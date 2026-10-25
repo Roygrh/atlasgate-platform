@@ -18,3 +18,6 @@ Candidates do not assert that any signal exists, is complete, or is fit for use.
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Active-revision visibility and cross-boundary outcome correlation are candidate evidence needs (STMT-159, STMT-170). Their availability, minimum safe fields, producer, consumer, and retention are unverified; no telemetry implementation or target follows. See [deferred questions](../architecture/deferred-decisions.md).
+## SES-006 external telemetry refinement
+
+TEL-002/TEL-005/TEL-007 may need to correlate consumer-visible symptoms, safe references, environment, traffic/retry context, and observed recovery (STMT-185, STMT-200, STMT-201, STMT-205, STMT-206). Availability, coverage, accuracy, safe access, and retention are unverified. No collection mechanism is selected.

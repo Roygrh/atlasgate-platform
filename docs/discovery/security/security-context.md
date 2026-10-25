@@ -33,3 +33,6 @@ SES-004 adds simulated support for BND-003 and BND-006: urgency does not displac
 
 ## SES-007 architecture alignment (fictional simulated evidence)
 Policy definition, evaluation, risk acceptance, and request-time enforcement are [candidate distinct responsibilities](../architecture/candidate-boundaries.md) (STMT-166–168). No enforcement location, policy control, or exception authority is selected. Safe behavior under management outage needs validation.
+## SES-006 external-consumer context
+
+The fictional access case distinguishes issuance from usable authorized use, and safe diagnosis from secret or payload disclosure (STMT-178, STMT-185, STMT-187, STMT-205). Borrowed test access shifts attribution and removal risk (STMT-188). These support review of purpose, scope, actor, environment, and closure without selecting an authentication mechanism or legal obligation.

@@ -21,3 +21,7 @@ The current repository also demonstrates documentation-only foundation practices
 
 ## SES-007 evidence now present
 The [fictional architecture workshop](../discovery/sessions/SES-007-architecture-alignment-discovery/02-session-record.md) demonstrates facilitation, driver extraction, responsibility and failure-boundary analysis, three-alternative comparison, trade-off analysis, future ADR framing, resistance to premature decisions, domain-semantic authority, runtime/control-plane reasoning, and evidence-driven architecture governance. These are documentation and reasoning evidence only; no final architecture, Java or gateway implementation, deployment, or production behavior is claimed.
+
+## SES-006 evidence now present
+
+The [fictional direct-consumer interview](../discovery/sessions/SES-006-external-consumer-discovery/02-session-record.md) and [external-consumer analysis](../discovery/external-consumers/README.md) demonstrate consumer-needs elicitation, onboarding-dependency analysis, support and communication analysis, semantic change and compatibility reasoning, traffic-expectation framing, and explicit comparison of internal assumptions with independent consumer testimony. [SES-007 candidate records](../discovery/architecture/README.md) were refined from evidence without approving an architecture baseline. These are portfolio discovery and reasoning artifacts only; no implementation, production operation, contract, or service commitment is claimed.
