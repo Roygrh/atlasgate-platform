@@ -1,5 +1,7 @@
 # External Traffic Expectations
 
+**SES-008 carry-forward:** Visibility of expected usage and symptom evidence warrants analysis, but a single fictional consumer gives no representative traffic profile. No quota, rate limit, SLA, SLO, or numeric service target follows.
+
 Fictional, simulated SES-006 analysis. Visibility questions do not choose quota, rate-limit, retry, or traffic-control mechanisms; no numeric target follows.
 
 | ID | Candidate expectation | SES-006 evidence | Uncertainty | Validation needed | Owner | Status |

@@ -1,5 +1,7 @@
 # Business Context and Outcome Candidates
 
+**SES-008 review:** OUT-001 through OUT-005 are accepted as discovery-baseline *outcome-theme inputs* for requirements analysis, not measured improvements, approved requirements, or numeric targets. Predictable completed journeys, usable adoption, accountable security/ownership, operability, and evidence-based investment remain qualified by absent baselines, cost records, and causal attribution. See the [reviewed baseline](baseline/business-discovery-baseline.md).
+
 This synthesis derives from the fictional simulated [SES-001 executive kickoff](sessions/SES-001-executive-kickoff/02-session-record.md), [SES-002 platform product discovery](sessions/SES-002-platform-product-discovery/02-session-record.md), and [SES-003 security and compliance discovery](sessions/SES-003-security-and-compliance-discovery/02-session-record.md). It is preliminary discovery analysis, not an approved business case, scope, requirement baseline, control selection, legal conclusion, or architecture direction.
 
 ## Current problem framing and drivers

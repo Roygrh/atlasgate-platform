@@ -1,5 +1,7 @@
 # Risk Register
 
+**SES-008 review:** Existing risks remain open. The [Business Discovery Baseline](../discovery/baseline/README.md) accepts residual simulated-evidence risk only for phase exit, not solution approval. Daniel/Maya own prevalence and value validation; Sofia owns broader partner evidence; Elena/Henry own applicability and exception authority; Marcus/Jordan own measurement; Priya owns option and failure comparison. No risk is closed without source evidence.
+
 ## Governance
 
 This register identifies uncertain events or conditions that could harm AtlasGate outcomes. Probability and impact use `Low`, `Medium`, or `High`; they are qualitative until evidence supports a numerical model. Status values are `Open`, `Monitoring`, `Mitigating`, `Realized`, and `Closed`. The named owner coordinates evidence, mitigation, triggers, and review; ownership does not imply sole responsibility.

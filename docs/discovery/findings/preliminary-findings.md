@@ -1,5 +1,7 @@
 # Preliminary Finding Register
 
+**SES-008 review:** [Evidence confidence](../baseline/evidence-confidence.md) carries FND-001, FND-009, FND-015, FND-017, FND-021 through FND-024, FND-028 through FND-034, and FND-040 through FND-047 as bounded analysis themes. Recurrence supports examination; absent source records, one fictional external account, disputed attribution, and unresolved authority limit conclusions. No finding becomes `Validated` by discovery closure. See the [review record](../sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md).
+
 These findings derive from fictional simulated discovery sessions through SES-007 and SES-006. None is an approved requirement or validated enterprise conclusion.
 
 | ID | Preliminary finding | Supporting statements | Conflicting or limiting evidence | Confidence | Validation needed | Owner | Status |

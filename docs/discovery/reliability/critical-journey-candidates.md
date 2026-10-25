@@ -1,5 +1,7 @@
 # Critical Journey Candidates
 
+**SES-008 review:** Candidate journeys carry forward for event and consequence definition. Criticality by consumer and period remains unverified; no numeric service commitment is inferred.
+
 ## SES-005 refinement
 
 Commerce partner-launch criticality may vary by launch and period, and deployment may precede partner transaction/support readiness (STMT-122). Loyalty semantic health may differ from syntactic health, while migration coexistence may widen diagnostic ambiguity (STMT-135, STMT-143). No critical journey or level is validated.

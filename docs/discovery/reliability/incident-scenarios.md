@@ -1,5 +1,7 @@
 # Incident Scenario Register
 
+**SES-008 review:** Reconstruct source-backed detection, diagnosis, mitigation, restoration, communication, and consumer closure before defining operational requirements or targets.
+
 All scenarios are fictional analytical devices. They do not assert a real incident or final severity.
 
 | ID | Scenario | Affected journey or consumer | Initial signal | Possible impact | Involved boundaries | Current response assumptions | Ownership uncertainty | Supporting statements | Limiting evidence | Validation needed | Owner | Status |

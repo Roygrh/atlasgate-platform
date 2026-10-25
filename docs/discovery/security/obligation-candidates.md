@@ -1,5 +1,7 @@
 # Obligation Candidates
 
+**SES-008 review:** Candidate obligations require authoritative source and qualified interpretation before compliance requirements approval. No legal, contractual, privacy, or regulatory applicability is confirmed; see [unresolved items](../baseline/unresolved-items.md).
+
 These fictional candidates record possible interpretation work. They do not establish legal, regulatory, contractual, policy, privacy, or audit applicability.
 
 | ID | Candidate | Potential source category | Affected flows or assets | Supporting evidence | Limiting evidence | Interpretation owner | Validation source | Decision impact | Status |

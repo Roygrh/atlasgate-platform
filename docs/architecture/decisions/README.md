@@ -22,3 +22,6 @@ Use the [ADR template](adr-template.md). No technology or architecture ADR has b
 
 ## Discovery candidates
 [SES-007 future ADR candidates](../../discovery/architecture/adr-candidates.md) are discovery questions, not ADRs or accepted decisions. Apply the lifecycle above only after evidence and authorized review; no architecture baseline exists.
+# Discovery input
+
+The completed fictional [Business Discovery Baseline](../../discovery/baseline/README.md) and its [architecture inputs](../../discovery/baseline/architecture-inputs.md) can inform future decision work. Candidate topics still require evidence and review; no ADR or Architecture Baseline exists yet.

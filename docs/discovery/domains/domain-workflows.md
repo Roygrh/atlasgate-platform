@@ -1,5 +1,7 @@
 # Preliminary Domain Workflow Register
 
+**SES-008 review:** Existing Commerce and Loyalty cases remain distinct, preliminary analysis inputs. Compare source-backed paths and completion criteria before specifying a target workflow; see [baseline](../baseline/business-discovery-baseline.md).
+
 These fictional simulated current-state records are not target workflows. No entry is validated.
 
 | ID | Domain | Scenario | Trigger | Producer | Consumers | Major steps | Ownership transitions | Dependencies | Completion ambiguity | Supporting evidence | Conflicting or limiting evidence | Validation needed | Owner | Status |

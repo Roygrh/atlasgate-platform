@@ -1,5 +1,7 @@
 # Preliminary Consumer Segments
 
+**SES-008 baseline review:** Producer, internal consumer, external developer, reviewer, platform operator, and support perspectives are sufficient to structure next-phase analysis. Segment size, prevalence, decision authority, and direct internal-consumer experience need evidence. Rachel Kim is one fictional external account, not a representative segment sample. Statuses remain non-terminal; see [confidence](../baseline/evidence-confidence.md).
+
 These segments derive from the fictional simulated [SES-002 transcript](../sessions/SES-002-platform-product-discovery/01-simulated-transcript.md). None is validated or approved product scope.
 
 ## SEG-001 - Domain API producer

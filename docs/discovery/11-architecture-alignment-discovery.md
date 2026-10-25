@@ -1,5 +1,7 @@
 # Architecture Alignment Discovery
 
+**SES-008 handoff:** SES-007 preceded SES-006. The later single fictional consumer account and [baseline architecture inputs](baseline/architecture-inputs.md) refine partner-facing decision criteria without choosing an alternative, boundary, ADR, or target.
+
 This synthesis derives from fictional simulated [SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md) and earlier SES-001–SES-005 evidence. It is preliminary discovery analysis, not a target architecture or Architecture Baseline. SES-006 was recorded afterward and supplies one limited fictional consumer account.
 
 ## Drivers and candidate responsibility boundaries
@@ -23,7 +25,7 @@ The workshop rejected the inference that asynchronous adoption requires distribu
 
 ## Evidence before Architecture Baseline
 
-Obtain representative inventory, dependency, approval and change records; configuration activation and outage behavior; domain metadata and consumer adoption samples; policy/exception authority and purpose-limited evidence; incident timelines, telemetry coverage, and actual consequence; capacity and operating-cost comparison; an architecture decision authority source; and further partner records beyond the single SES-006 account. Then compare candidate directions with recorded criteria and conflicting evidence. I01-P08 Discovery Synthesis and Baseline Review remains planned and incomplete.
+Obtain representative inventory, dependency, approval and change records; configuration activation and outage behavior; domain metadata and consumer adoption samples; policy/exception authority and purpose-limited evidence; incident timelines, telemetry coverage, and actual consequence; capacity and operating-cost comparison; an architecture decision authority source; and further partner records beyond the single SES-006 account. Then compare candidate directions with recorded criteria and conflicting evidence. [SES-008](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md) closed discovery while retaining these questions for later Architecture Baseline work.
 
 ## SES-006 refinement after SES-007
 

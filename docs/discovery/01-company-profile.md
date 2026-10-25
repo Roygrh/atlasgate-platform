@@ -1,5 +1,7 @@
 # Fictional Company Profile: Northstar Digital Group
 
+The fictional [SES-008 baseline review](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md) accepts the business problem and contrasting journeys as inputs to later analysis, while scale, authority, legal scope, costs, and measured outcomes remain unknown. This does not turn the scenario into a real-company fact.
+
 > **Fictional-scenario disclaimer:** Northstar Digital Group, its operating context, and all associated people and groups are fictional. They exist only to support a realistic simulated discovery exercise.
 
 ## Company overview

@@ -1,5 +1,7 @@
 # Candidate Boundary Register
 
+**SES-008 review:** SES-006 reinforces consumer-facing metadata, adoption, and support boundary questions. No boundary becomes an accepted Architecture Baseline element; formal authority, failure, and source records remain required.
+
 Fictional simulated analysis only. Allowed statuses: `Candidate`, `Analysis planned`, `Accepted for baseline`, `Rejected`; none is accepted.
 
 | ID | Boundary concern | Responsibilities on each side | Rationale and supporting evidence | Tension / trade-off | Failure implication | Ownership implication | Unresolved questions | Validation needed | Owner | Status |

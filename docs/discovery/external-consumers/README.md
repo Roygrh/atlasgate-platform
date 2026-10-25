@@ -1,5 +1,7 @@
 # External-Consumer Discovery Analysis
 
+**SES-008 review:** One fictional consumer account provides useful direct simulated evidence and challenges internal completion proxies; it does not establish prevalence or represent all partners. Representative accounts, observed tasks, agreements, and source records remain future limitations. See [baseline confidence](../baseline/evidence-confidence.md).
+
 All records here derive from the fictional, simulated [SES-006 transcript](../sessions/SES-006-external-consumer-discovery/01-simulated-transcript.md). Rachel Kim and Meridian Retail Partners are fictional. One account identifies candidate needs and dependencies; it does not validate prevalence, contractual duty, approved requirement, or mechanism.
 
 | Register | Purpose |

@@ -1,5 +1,7 @@
 # Preliminary Adoption-Needs Register
 
+**SES-008 review:** Voluntary adoption and independent consumer completion remain candidate needs. No adoption mandate or completed-use measure is approved; validate eligible journeys and consumer closure before requirements baseline review.
+
 Needs are discovery problems, not features. No item is supported.
 
 | ID | Actor/segment | Domain | Need | Current workaround or alternative | Expected benefit | Adoption barrier | Evidence | Limiting evidence | Validation method | Owner | Status |

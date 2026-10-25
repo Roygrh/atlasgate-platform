@@ -1,5 +1,7 @@
 # Common Versus Domain-Specific Analysis
 
+**SES-008 review:** Commerce partner/tenant timing and Loyalty semantic/consumer release differences are necessary-variation candidates. Copied configuration and missing context are accidental-inconsistency candidates. Neither classification is proven without source-backed comparisons.
+
 This fictional simulated comparison does not recommend a universal workflow.
 
 | Category | Concern | Commerce evidence | Loyalty evidence | Similarity | Difference | Risk of over-standardization | Risk of under-standardization | Validation needed |

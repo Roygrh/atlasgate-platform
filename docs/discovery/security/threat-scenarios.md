@@ -1,5 +1,7 @@
 # Preliminary Threat Scenarios
 
+**SES-008 review:** These scenarios remain requirement-analysis prompts, not assessed incidents or selected controls. Validate likelihood, consequence, actor, and authority from source-backed cases.
+
 These fictional scenarios are inputs for later analysis, not a completed threat model or assessed risks. Candidate control objectives are technology-neutral and unapproved.
 
 | ID | Scenario | Affected assets | Actor or boundary | Preconditions | Potential impact | Supporting statements | Limiting evidence | Candidate control objectives | Validation needed | Owner | Status |

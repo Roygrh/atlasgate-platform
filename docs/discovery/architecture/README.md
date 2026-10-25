@@ -1,5 +1,7 @@
 # Architecture Discovery Analysis
 
+**SES-008 review:** [AIN inputs](../baseline/architecture-inputs.md) carry SES-007 reasoning plus later SES-006 consumer qualifications into option assessment. Centralized, modular, and distributed alternatives stay open; no candidate boundary, ADR, or Architecture Baseline is accepted.
+
 This directory is preliminary fictional simulated discovery analysis only. It is separate from [architecture documentation](../../architecture/README.md), where a future baseline and governed decisions would be recorded. No architecture baseline or ADR is approved here.
 
 An **architecture driver** is an evidence-linked concern used to assess options. A **candidate boundary** proposes a responsibility or failure separation for testing. A **candidate direction** suggests an approach without selecting it. An **architecture alternative** is a comparable possible shape. A **trade-off** records competing benefits and costs. An **architecture question** identifies a consequential uncertainty. An **ADR candidate** flags a topic likely to need a later governed decision; it is not an ADR. An **architecture baseline** would be an explicitly reviewed set of architecture decisions and views. An **approved ADR** would record an authorized selection under [decision governance](../../architecture/decisions/README.md). **Implemented architecture** means verified repository and runtime behavior, which does not yet exist.

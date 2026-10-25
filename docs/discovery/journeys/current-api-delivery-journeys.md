@@ -1,5 +1,7 @@
 # Current API Delivery Journeys
 
+**SES-008 baseline review:** Commerce launch, Loyalty change, and external onboarding journeys are sufficient contrasting inputs for requirements analysis; domain tenant-change and incident cases add important failure and ownership tests. None is a validated universal workflow. Source-backed elapsed stages, independent consumer adoption, partner waiting, and completion evidence remain necessary; see [unresolved items](../baseline/unresolved-items.md).
+
 These ordered-text journeys derive from the fictional simulated [SES-002 transcript](../sessions/SES-002-platform-product-discovery/01-simulated-transcript.md). They are not universal or validated workflows. Journeys describe broader consumer/delivery paths; the [domain workflow register](../domains/domain-workflows.md) adds scenario-level change behavior and is not a target process.
 
 ## JRN-001 - Commerce external partner launch

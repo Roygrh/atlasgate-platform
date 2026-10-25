@@ -1,5 +1,7 @@
 # Preliminary Handoff and Ownership Register
 
+**SES-008 review:** Platform coordination does not transfer Commerce/Loyalty semantic authority, access approval, or business-risk acceptance. Accepted/rejected handoff records and formal authority remain required; see [requirement inputs](../baseline/requirement-inputs.md).
+
 These records distinguish coordination from authority. They are not a RACI; none is confirmed.
 
 | ID | Scenario | From actor | To actor | Information or responsibility transferred | Authority retained | Possible failure mode | Supporting evidence | Uncertainty | Validation needed | Owner | Status |

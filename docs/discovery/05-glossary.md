@@ -1,5 +1,18 @@
 # Initial Glossary
 
+## SES-008 baseline vocabulary
+
+| Term | Meaning |
+| --- | --- |
+| Discovery baseline | Reviewed, bounded snapshot of simulated discovery evidence and analysis accepted for later work; it is not a solution approval. |
+| Baseline input | Theme sufficiently established to guide the next analysis phase, with limits retained. |
+| Qualified baseline input | Useful theme whose scope, cause, prevalence, or authority still needs validation. |
+| Requirement input | Traceable need or problem for later requirements analysis; it is not an approved requirement. |
+| Architecture input | Traceable concern or alternative for later architecture assessment; it is not a decision. |
+| Residual uncertainty | Explicitly retained unknown or conflict after phase exit. |
+| Evidence sufficiency | Judgment that available evidence can support the next analysis step, not certainty that claims are true. |
+| Phase exit | Recorded decision that a phase has enough bounded output to proceed while later approval gates remain separate. |
+
 These definitions support discovery and do not imply that the described behavior is implemented.
 
 | Term | Definition |

@@ -1,5 +1,7 @@
 # Telemetry Candidate Register
 
+**SES-008 review:** Inventory coverage, field purpose, quality, access, and outcome correlation before using signals for a measurable indicator or operational requirement. No tooling is selected.
+
 ## SES-005 refinement
 
 Potential evidence gaps now include partner readiness, returned handoffs, consumer adoption, residual use, semantic outcome, and closure state (STMT-121 through STMT-124, STMT-135 through STMT-144). These are evidence questions, not approved telemetry or collection mechanisms.

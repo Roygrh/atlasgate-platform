@@ -1,5 +1,7 @@
 # Preliminary Security Context
 
+**SES-008 review:** Actor, purpose, environment, attribution, removal, and support boundaries carry into [requirements analysis](../baseline/requirement-inputs.md). No asset classification, control, authority, or legal applicability is confirmed.
+
 ## SES-005 domain-workflow context
 
 Commerce partner and tenant changes place applicable review and exception questions at different handoffs; a commercial date does not authorize an exception (STMT-124 through STMT-130). Loyalty semantic and migration cases reinforce that domain meaning stays with Loyalty while consumer responsibilities remain distinct (STMT-131 through STMT-144). This context does not establish obligations, controls, authority, or mechanisms.

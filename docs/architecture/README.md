@@ -8,3 +8,7 @@ Architecture documentation must distinguish current evidence, proposed direction
 
 ## Discovery cross-link
 The [SES-007 architecture discovery analysis](../discovery/architecture/README.md) contains candidate drivers, boundaries, alternatives, ADR topics, and deferred questions only. No final architecture baseline exists; its analysis does not approve the directional control-plane or runtime description above.
+
+# Discovery handoff
+
+The accepted fictional [Business Discovery Baseline](../discovery/baseline/README.md) supplies evidence and [architecture inputs](../discovery/baseline/architecture-inputs.md) for later option assessment. It approves no architecture choice. **No Architecture Baseline exists yet.**

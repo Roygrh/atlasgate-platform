@@ -1,5 +1,7 @@
 # Stakeholder Map
 
+[SES-008](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md) included Maya, Daniel, Priya, Elena, Marcus, Aisha, Lucas, Jordan, and Sofia. Rachel's separate fictional SES-006 testimony was reviewed through records. The baseline retains internal consumers, external partners, Compliance, operators, and support as affected groups; formal approval and risk-acceptance authority remains unverified.
+
 Northstar Digital Group and every person or group below are fictional. Names make the simulated discovery concrete; they do not represent real individuals or completed interviews.
 
 | Fictional stakeholder | Role | Goals | Concerns | Decision influence | Expected discovery contribution | Likely conflicts or trade-offs |

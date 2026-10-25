@@ -1,5 +1,7 @@
 # External Support and Communication
 
+**SES-008 carry-forward:** Accepted routing, qualified updates, and consumer-observed recovery need requirements analysis, with domain and platform authority kept distinct. One fictional account establishes no support commitment or prevalence.
+
 Fictional, simulated SES-006 analysis. These are expectations to validate, not support commitments or authority assignments.
 
 | ID | Candidate expectation | SES-006 evidence | Uncertainty | Validation needed | Owner | Status |

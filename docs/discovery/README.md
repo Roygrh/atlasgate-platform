@@ -4,7 +4,7 @@
 
 Discovery establishes evidence for AtlasGate's business context before requirements or implementation are baselined. Northstar Digital Group, its business situation, and every named participant are fictional. They are designed to model realistic enterprise constraints, not to describe a real organization or completed engagement.
 
-Future simulated sessions will start from the [engagement plan](03-discovery-plan.md). Each session record must identify its fictional participants, planned questions, simulated stakeholder statements, and the interpretation applied afterward. A statement becomes a finding only after synthesis; it does not become an approved requirement or decision by repetition.
+The eight completed fictional simulated sessions follow the [engagement plan](03-discovery-plan.md). Each session record identifies its fictional participants, questions, simulated stakeholder statements, and later interpretation. A statement becomes a finding only after synthesis; it does not become an approved requirement or decision by repetition.
 
 ## Evidence types
 
@@ -38,7 +38,7 @@ Future evidence must use stable identifiers and link from its source session to 
 
 ## Current state
 
-SES-001 through SES-007 have been fictionally simulated and recorded for portfolio purposes. Their statements and preliminary analysis are traceable, including [reliability records](reliability/README.md), [domain workflow records](domains/README.md), [external-consumer analysis](external-consumers/README.md), and [architecture discovery analysis](architecture/README.md). P07 was executed before P06 without renumbering. Only I01-P08 - Discovery Synthesis and Baseline Review remains planned and incomplete in Business Discovery; the iteration is incomplete. No finding, workflow, segment, or journey is validated; no hypothesis or adoption need is supported; no dependency or handoff is confirmed; no obligation or legal applicability is confirmed; no requirement, target, or commitment is approved; no control or observability is implemented; and no architecture decision has been made.
+SES-001 through SES-008 are complete fictional simulations for portfolio purposes. [SES-008](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md) accepted the [Business Discovery Baseline](baseline/README.md); [executive closeout](13-business-discovery-completion.md) explains the handoff. P07 was executed before P06 without renumbering. **I01 Business Discovery is complete.** Requirements Baseline and Architecture Baseline are incomplete; implementation has not begun. Findings and typed records remain preliminary or under validation, legal applicability and targets remain unconfirmed, and no architecture decision exists.
 
 ## SES-007 architecture alignment
-[Fictional simulated SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md) produced preliminary [architecture discovery analysis](architecture/README.md) and [synthesis](11-architecture-alignment-discovery.md). [SES-006](12-external-consumer-discovery.md) later refined partner-facing questions without approving an architecture baseline or ADR. Only I01-P08 remains planned and incomplete in Business Discovery.
+[Fictional simulated SES-007](sessions/SES-007-architecture-alignment-discovery/02-session-record.md) produced preliminary [architecture discovery analysis](architecture/README.md) and [synthesis](11-architecture-alignment-discovery.md). [SES-006](12-external-consumer-discovery.md) later refined partner-facing questions without approving an Architecture Baseline or ADR; SES-008 carried them forward without selection.

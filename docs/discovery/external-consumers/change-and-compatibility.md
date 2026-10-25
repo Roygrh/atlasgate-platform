@@ -1,5 +1,7 @@
 # External Change and Compatibility Expectations
 
+**SES-008 carry-forward:** Notice, comprehension, semantic impact, partner release, adoption, and residual use are separate analysis states. One fictional account and no agreement cannot establish prevalence, compatibility policy, or notice commitment.
+
 Fictional, simulated SES-006 analysis; no versioning, compatibility, or notice policy is selected.
 
 | ID | Candidate expectation | SES-006 evidence | Uncertainty / preference boundary | Validation needed | Owner | Status |

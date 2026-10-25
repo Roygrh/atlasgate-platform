@@ -1,5 +1,7 @@
 # Target-Role Evidence Map
 
+**I01-P08 evidence now present:** The fictional [end-to-end Business Discovery Baseline](../discovery/baseline/README.md), [SES-008 review](../discovery/sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md), and [closeout](../discovery/13-business-discovery-completion.md) demonstrate executive, product, security, reliability, Commerce/Loyalty, external-consumer, and architecture-alignment facilitation; cross-functional conflict handling; evidence reconciliation and confidence/uncertainty management; traceable RIN/AIN input derivation; phase-gate judgment; and resistance to premature requirements, architecture, targets, and implementation. These are simulated documentation and reasoning artifacts only, not implemented platform capability or real-world validation.
+
 This reusable map connects competencies expected of an enterprise Java API platform architect with evidence that AtlasGate can produce. Planned evidence is directional; it must move to implemented evidence only after the repository contains validated artifacts or behavior.
 
 | Competency | Planned evidence | Implemented evidence |

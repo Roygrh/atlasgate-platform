@@ -1,5 +1,7 @@
 # Preliminary Domain Dependency Register
 
+**SES-008 review:** Partner waiting, consumer release capacity, review inputs, and platform/domain coordination are analysis dependencies, not established causal frequencies. Validate their controlling parties and elapsed stages before requirements approval; see [unresolved items](../baseline/unresolved-items.md).
+
 Dependencies are evidence-linked discovery candidates, not selected mechanisms. None is confirmed.
 
 | ID | Workflow/scenario | Dependency | Dependency type | Controlling party | Affected actor | Effect if delayed or incorrect | Evidence | Uncertainty | Validation source | Owner | Status |

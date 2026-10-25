@@ -1,5 +1,7 @@
 # External Consumer Needs
 
+**SES-008 carry-forward:** Use-case fit, usable semantics, authorized first call, and partner readiness are qualified requirement-analysis inputs. One fictional account does not establish prevalence; observe additional consumer tasks before approval.
+
 Fictional, simulated SES-006 analysis. `Preliminary` and `Under validation` are non-terminal; no record is `Supported` or an approved requirement.
 
 | ID | Candidate need | SES-006 evidence | Uncertainty / preference boundary | Validation needed | Owner | Status |

@@ -1,5 +1,7 @@
 # Preliminary Exception Cases
 
+**SES-008 review:** Formal exception authority, bounded evidence, expiry, removal, and closure remain unresolved before a security requirement or route can be approved.
+
 No case is approved. Safeguards are questions for assessment, not selected controls.
 
 | ID | Scenario | Requested deviation | Business driver | Affected assets or journeys | Missing evidence | Authority question | Candidate safeguards or conditions | Expiry or closure question | Supporting statements | Owner | Status |

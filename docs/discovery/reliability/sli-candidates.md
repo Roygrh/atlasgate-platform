@@ -1,5 +1,7 @@
 # Service-Level Indicator Candidate Register
 
+**SES-008 review:** Candidate indicators remain unmeasured. Define boundaries, events, exclusions, data quality, and consumer-outcome validity first. No SLO, SLA, error budget, or numeric target can be inferred.
+
 ## SES-005 refinement
 
 SES-005 reinforces that deployment completion is not a valid universal proxy for partner readiness, consumer adoption, restoration, or migration closure (STMT-122, STMT-127, STMT-139, STMT-144). Existing candidates remain unmeasurable and target-free; no new SLI is approved.

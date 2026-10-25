@@ -1,5 +1,7 @@
 # Domain Workflow Discovery
 
+**SES-008 carry-forward:** Commerce and Loyalty differences are qualified [baseline inputs](../baseline/business-discovery-baseline.md); shared concern does not establish one target workflow. Source-backed change, adoption, and handoff samples remain required.
+
 These are preliminary records derived from fictional simulated discovery. They are not approved operating models, target-state workflows, finalized boundaries, requirements, or implementation designs.
 
 | Concept | Discovery meaning |

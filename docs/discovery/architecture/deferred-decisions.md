@@ -1,5 +1,7 @@
 # Architecture Questions and Deferred Decisions
 
+**SES-008 review:** Management outage, stale state, policy placement, metadata authority, propagation, revision history, extension needs, and option cost remain open. Resolve relevant items before Architecture Baseline review; see [unresolved items](../baseline/unresolved-items.md).
+
 Fictional simulated discovery questions only. Statuses used here are `Open` and `Evidence gathering`; no answer is approved.
 
 | ID | Question | Why deferred | Missing evidence | Dependency | Decision impact | Owner | Expected future stage | Status |

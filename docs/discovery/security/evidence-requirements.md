@@ -1,5 +1,7 @@
 # Preliminary Evidence Requirements
 
+**SES-008 review:** Treat each record as a purpose-specific requirement-analysis candidate. Operational telemetry is not automatically durable review evidence; minimum content, access, integrity, and retention require authoritative review.
+
 ## SES-005 refinement
 
 Future flow samples should preserve reason-coded review requests/returns, decision provenance, controlling party, partner or consumer pauses, and completion/closure claims (STMT-121, STMT-124, STMT-130, STMT-147). Evidence minimum, access, integrity, and retention remain governed by unresolved SES-003 questions; full payloads are not requested.

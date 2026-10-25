@@ -1,5 +1,7 @@
 # Assumptions and Open Questions
 
+**SES-008 disposition:** Keep all unresolved IDs and statuses. [Unresolved items](baseline/unresolved-items.md) classifies which questions must precede Requirements Baseline or Architecture Baseline, which can wait for implementation planning, and which to monitor. Daniel/Maya own outcome and timing evidence; Sofia/Daniel consumer coverage; Elena/Henry obligations and authority; Marcus/Jordan measurement; Aisha/Lucas domain variation; Priya architecture option evidence. Discovery exit resolves none of these by inference.
+
 These registers are deliberately separate. An assumption is a provisional proposition; an open question identifies missing knowledge. Neither is a finding, approved requirement, or decision. Status values are `Open`, `Validation planned`, `Validated`, or `Invalidated`; only evidence may move an item to either terminal status.
 
 ## Assumptions

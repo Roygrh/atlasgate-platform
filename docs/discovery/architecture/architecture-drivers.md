@@ -1,5 +1,7 @@
 # Architecture Driver Register
 
+**SES-008 review:** Domain authority, failure coupling, policy responsibility, change traceability, partner usability, and consequence visibility are sufficiently evidenced as *driver questions* to carry forward. Strength of solution evidence remains low; see [confidence](../baseline/evidence-confidence.md). No driver status is promoted to validated.
+
 All records are candidates drawn from fictional simulated discovery. Allowed statuses: `Candidate`, `Under validation`, `Validated`, `Rejected`. None is validated.
 
 | ID | Driver | Source evidence | Affected stakeholders | Consequence if ignored | Conflicting or limiting evidence | Validation needed | Owner | Status |

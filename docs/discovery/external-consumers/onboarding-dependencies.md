@@ -1,5 +1,7 @@
 # External Onboarding Dependencies
 
+**SES-008 carry-forward:** Separate Northstar-controlled work from partner approval and waiting; document availability and credential issuance do not prove a usable first call. One fictional account is insufficient for prevalence or duration claims.
+
 Fictional, simulated SES-006 analysis; dependencies are provisional, not a mandatory sequence or selected access mechanism.
 
 | ID | Dependency and affected completion | SES-006 evidence | Uncertainty | Validation needed | Owner | Status |

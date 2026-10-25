@@ -1,6 +1,6 @@
 # Discovery Engagement Plan
 
-All activities below are fictional simulations involving fictional Northstar Digital Group participants. SES-001 through SES-007 have been simulated and recorded for portfolio purposes; only activity 8, Discovery Synthesis and Baseline Review, remains planned and incomplete in Business Discovery. P07 was executed before P06; identifiers retain their original numbers.
+All eight activities below are completed fictional simulations involving fictional Northstar Digital Group participants. P07 was executed before P06; identifiers retain their original numbers. **I01 - Business Discovery: complete.** The [Business Discovery Baseline](baseline/README.md) is accepted as input to later analysis. Requirements and Architecture Baselines remain future work.
 
 ## 1. Executive kickoff
 
@@ -87,11 +87,11 @@ All activities below are fictional simulations involving fictional Northstar Dig
 
 ## 8. Discovery synthesis and baseline review
 
-- **Status:** Planned and incomplete.
+- **Status:** Fictionally simulated and recorded as [SES-008](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md); discovery exit accepted.
 
-- **Purpose:** Reconcile evidence, findings, assumptions, hypotheses, proposed requirements, risks, and decisions for stakeholder review.
-- **Participants:** Product manager, executive sponsor, architects, SRE lead, compliance representative, domain leads, partner lead, and platform engineering.
-- **Key questions:** What is supported, disputed, or missing? Which proposals are ready for approval? What is explicitly deferred? Are traceability and ownership complete?
-- **Expected outputs:** Reviewed findings, updated assumptions and questions, prioritized hypotheses, candidate requirement baseline, decision backlog, risks, and next-phase recommendation.
+- **Purpose:** Reconcile evidence, findings, assumptions, hypotheses, requirement inputs, architecture inputs, risks, and open decisions for stakeholder review.
+- **Participants:** Product manager, executive sponsor, platform and security architects, SRE lead, Commerce and Loyalty domain leads, partner lead, and platform engineering. Prior compliance testimony is reviewed through SES-003 records; Henry Walsh is a follow-up owner, not a SES-008 attendee.
+- **Key questions:** What is sufficient to carry forward, disputed, or missing? What remains deferred? Are traceability and ownership clear enough for the next analysis phase?
+- **Expected outputs:** Reviewed Business Discovery Baseline, qualified evidence confidence, requirement and architecture inputs, unresolved items, risks, and next-phase handoff.
 - **Preparation:** Perform traceability and terminology checks; circulate evidence with conflicts and confidence visible.
-- **Exit criteria:** Review outcomes and authority are recorded; approved items are explicitly distinguished from proposals; unresolved matters retain owners and statuses.
+- **Exit criteria:** Met for fictional discovery: [review decision](sessions/SES-008-discovery-synthesis-and-baseline-review/02-session-record.md) records bounded acceptance, explicit non-decisions, limitations, and owned residual uncertainty. No requirement or architecture was approved.

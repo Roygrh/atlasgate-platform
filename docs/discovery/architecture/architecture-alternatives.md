@@ -1,5 +1,7 @@
 # Architecture Alternatives Register
 
+**SES-008 review:** Keep centralized, modular-monolith direction, and distributed-service options open. Compare queue cost, failure behavior, operating capacity, authority, and reversibility using source-backed scenarios before any selection.
+
 These fictional simulated comparisons are possible directions, not target designs or selections. Allowed statuses: `Candidate`, `Comparison planned`, `Preferred for further analysis`, `Rejected`.
 
 | ID | Description | Potential benefits | Costs and risks | Coupling implications | Operational implications | Security implications | Evidence supporting consideration | Evidence against / pending | Validation needed | Status |

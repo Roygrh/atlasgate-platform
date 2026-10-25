@@ -1,5 +1,7 @@
 # Product Hypotheses
 
+**SES-008 classification:** Retain all product hypotheses for future testing against eligible journeys, actual completion, consumer tasks, and alternative paths. No hypothesis becomes Supported simply because I01 closed; see [confidence](../baseline/evidence-confidence.md).
+
 All hypotheses derive from fictional simulated discovery evidence and remain unapproved and unsupported.
 
 | ID | Hypothesis and target | Supporting evidence | Limiting evidence | Expected observable effect | Validation method | Failure or rejection signal | Owner | Status |

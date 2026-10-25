@@ -1,5 +1,7 @@
 # Future ADR Candidate Register
 
+**SES-008 review:** Candidate topics remain for continued evidence gathering only. SES-006 refines partner metadata and change concerns; SES-008 approves no ADR drafting conclusion, decision, or Architecture Baseline.
+
 Fictional simulated discovery topics only; no ADR file or decision exists. Allowed statuses: `Identified`, `Evidence gathering`, `Ready for ADR`, `Dropped`. None is ready.
 
 | ID | Decision topic and why consequential | Competing options | Discovery evidence | Evidence still needed | Expected decision owner | Likely decision stage | Status |

@@ -1,5 +1,7 @@
 # Ownership and Support Boundary Register
 
+**SES-008 review:** Coordination, accepted handoff, semantic interpretation, and business-risk acceptance need distinct owners and formal authority evidence. The discovery baseline approves no operating model.
+
 ## SES-005 refinement
 
 Platform coordination can appear to transfer ownership but does not grant Commerce or Loyalty semantic authority, consumer-schedule authority, or consequence acceptance (STMT-114 through STMT-116, STMT-125, STMT-133, STMT-140, STMT-141). Producer, consumer, partner, reviewer, support, and closure responsibilities require source-backed mapping; no RACI is created.
